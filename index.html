@@ -1,0 +1,161 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#0b1220" />
+  <meta name="description" content="MIR Sprint 2027: estudio MIR con repetición espaciada, simulacros, temario y plan de 4 meses." />
+  <link rel="manifest" href="./manifest.webmanifest" />
+  <link rel="icon" href="./assets/icon.svg" type="image/svg+xml" />
+  <link rel="stylesheet" href="./styles.css" />
+  <title>MIR Sprint 2027</title>
+</head>
+<body>
+  <div class="app-shell">
+    <aside class="sidebar" id="sidebar">
+      <div class="brand">
+        <div class="brand-mark">M</div>
+        <div><strong>MIR Sprint</strong><span>2027 · estudio inteligente</span></div>
+      </div>
+      <nav class="nav" aria-label="Navegación principal">
+        <button class="nav-item active" data-view="dashboard"><span>⌂</span>Inicio</button>
+        <button class="nav-item" data-view="study"><span>◫</span>Tarjetas</button>
+        <button class="nav-item" data-view="simulator"><span>✓</span>Simulador</button>
+        <button class="nav-item" data-view="subjects"><span>▦</span>Temario</button>
+        <button class="nav-item" data-view="planner"><span>◷</span>Plan 4 meses</button>
+        <button class="nav-item" data-view="library"><span>⌕</span>Biblioteca</button>
+      </nav>
+      <div class="sidebar-foot">
+        <div class="mini-progress"><span>Meta diaria</span><strong id="sidebarDaily">0 / 80</strong><div><i id="sidebarDailyBar"></i></div></div>
+        <button class="ghost small" id="themeToggle">◐ Tema</button>
+      </div>
+    </aside>
+
+    <main class="main">
+      <header class="topbar">
+        <button class="menu-btn" id="menuBtn" aria-label="Abrir menú">☰</button>
+        <div class="search-wrap"><span>⌕</span><input id="globalSearch" type="search" placeholder="Buscar tema, tarjeta o concepto…" /></div>
+        <div class="top-actions"><span class="pill" id="dataStatus">Cargando banco…</span><button class="avatar" title="Progreso local">LS</button></div>
+      </header>
+
+      <section class="view active" id="view-dashboard">
+        <div class="hero">
+          <div>
+            <span class="eyebrow">CONVOCATORIA 2026 · ACCESO 2027</span>
+            <h1>Tu preparación MIR, convertida en un sistema.</h1>
+            <p>Repaso espaciado, preguntas, imágenes, errores y un plan intensivo hasta el examen.</p>
+            <div class="hero-actions"><button class="primary" data-go="study">Estudiar ahora</button><button class="secondary" data-go="planner">Ver plan</button></div>
+          </div>
+          <div class="countdown-card"><span>Examen</span><strong id="countdownDays">—</strong><b>días</b><small>23 enero 2027</small></div>
+        </div>
+
+        <div class="stats-grid">
+          <article class="stat"><span>Tarjetas disponibles</span><strong id="statCards">—</strong><small id="statCardsMeta">incluye tu mazo ORL</small></article>
+          <article class="stat"><span>Repasos hoy</span><strong id="statToday">0</strong><small id="statDue">0 pendientes</small></article>
+          <article class="stat"><span>Precisión preguntas</span><strong id="statAccuracy">—</strong><small>histórico local</small></article>
+          <article class="stat"><span>Racha</span><strong id="statStreak">0</strong><small>días consecutivos</small></article>
+        </div>
+
+        <div class="dashboard-grid">
+          <article class="panel focus-panel">
+            <div class="panel-head"><div><span class="eyebrow">HOY</span><h2>Bloque recomendado</h2></div><span class="tag" id="phaseTag">Vuelta 1</span></div>
+            <div class="focus-row"><div class="focus-icon">1</div><div><strong>Repaso espaciado</strong><span id="todayDueText">Cargando…</span></div><button class="text-btn" data-go="study">Empezar →</button></div>
+            <div class="focus-row"><div class="focus-icon">2</div><div><strong>Preguntas MIR</strong><span>20 preguntas cronometradas</span></div><button class="text-btn" data-go="simulator">Simular →</button></div>
+            <div class="focus-row"><div class="focus-icon">3</div><div><strong>Materia prioritaria</strong><span id="prioritySubject">Cardiología</span></div><button class="text-btn" data-go="subjects">Abrir →</button></div>
+          </article>
+
+          <article class="panel">
+            <div class="panel-head"><div><span class="eyebrow">COBERTURA</span><h2>Mapa MIR</h2></div><span class="tag neutral">27 áreas</span></div>
+            <div class="coverage-ring" id="coverageRing"><div><strong id="coveragePct">0%</strong><span>temas con contenido</span></div></div>
+            <p class="muted center" id="coverageText">Estructura curricular completa; banco clínico en expansión.</p>
+          </article>
+        </div>
+
+        <article class="panel exam-format">
+          <div><span class="eyebrow">FORMATO OFICIAL VIGENTE</span><h2>MIR 2027</h2><p>Configuración incorporada al simulador.</p></div>
+          <div class="format-item"><strong>200 + 10</strong><span>preguntas + reserva</span></div>
+          <div class="format-item"><strong>4 h 30</strong><span>duración</span></div>
+          <div class="format-item"><strong>+3 / −1</strong><span>acierto / error</span></div>
+          <div class="format-item"><strong>90%</strong><span>peso del examen</span></div>
+        </article>
+      </section>
+
+      <section class="view" id="view-study">
+        <div class="page-head"><div><span class="eyebrow">REPETICIÓN ESPACIADA</span><h1>Tarjetas</h1><p>Estudia las tarjetas vencidas primero y después incorpora nuevas.</p></div><div class="page-actions"><select id="studySubject"><option value="all">Todas las materias</option></select><button class="secondary" id="studyImagesOnly">Solo imágenes</button></div></div>
+        <div class="study-layout">
+          <aside class="study-stats panel compact">
+            <div><span>Pendientes</span><strong id="studyDue">0</strong></div>
+            <div><span>Nuevas</span><strong id="studyNew">0</strong></div>
+            <div><span>Sesión</span><strong id="sessionCount">0</strong></div>
+            <hr />
+            <label>Meta diaria <input type="number" id="dailyGoal" min="10" max="500" step="10" value="80" /></label>
+            <button class="ghost" id="resetSession">Nueva sesión</button>
+          </aside>
+          <div class="flashcard-zone">
+            <div class="flashcard" id="flashcard">
+              <div class="card-top"><span class="tag" id="cardSubject">Materia</span><span id="cardTopic">Tema</span></div>
+              <div class="card-content" id="cardQuestion"></div>
+              <button class="primary reveal" id="revealCard">Mostrar respuesta</button>
+              <div class="answer-zone hidden" id="answerZone">
+                <div class="answer-label">RESPUESTA</div><div id="cardAnswer" class="card-answer"></div>
+                <div class="explanation" id="cardExplanation"></div>
+                <div class="rating-row">
+                  <button class="rate again" data-rating="0"><b>Otra vez</b><span>&lt; 1 min</span></button>
+                  <button class="rate hard" data-rating="1"><b>Difícil</b><span>corto</span></button>
+                  <button class="rate good" data-rating="2"><b>Bien</b><span>normal</span></button>
+                  <button class="rate easy" data-rating="3"><b>Fácil</b><span>largo</span></button>
+                </div>
+              </div>
+            </div>
+            <div class="empty-state hidden" id="studyEmpty"><strong>Sesión terminada</strong><p>No quedan tarjetas en esta selección. Puedes cambiar de materia o iniciar otra sesión.</p><button class="primary" id="restartStudy">Reiniciar</button></div>
+          </div>
+        </div>
+      </section>
+
+      <section class="view" id="view-simulator">
+        <div class="page-head"><div><span class="eyebrow">MODO EXAMEN</span><h1>Simulador</h1><p>Practica con penalización MIR y revisión inmediata al finalizar.</p></div><div class="page-actions"><select id="quizSubject"><option value="all">Todas las materias</option></select></div></div>
+        <div id="quizSetup" class="panel quiz-setup">
+          <h2>Configura tu bloque</h2>
+          <div class="quiz-options">
+            <label><span>Número de preguntas</span><select id="quizCount"><option>10</option><option selected>20</option><option>30</option><option>50</option><option value="210">210 · MIR completo</option></select></label>
+            <label><span>Tiempo</span><select id="quizMinutes"><option value="0">Sin límite</option><option value="30">30 min</option><option value="60">60 min</option><option value="120">120 min</option></select></label>
+            <label><span>Modo</span><select id="quizMode"><option value="random">Aleatorio</option><option value="errors">Solo errores previos</option></select></label>
+          </div>
+          <button class="primary large" id="startQuiz">Comenzar simulacro</button>
+        </div>
+        <div id="quizRunner" class="hidden">
+          <div class="quiz-toolbar"><div><strong id="quizProgress">1 / 20</strong><span id="quizTopic">Tema</span></div><div class="timer" id="quizTimer">00:00</div></div>
+          <article class="panel quiz-card"><div class="question-number" id="questionNumber">Pregunta 1</div><h2 id="quizQuestion"></h2><div class="options" id="quizOptions"></div><div class="quiz-nav"><button class="secondary" id="prevQuestion">← Anterior</button><button class="primary" id="nextQuestion">Siguiente →</button></div></article>
+        </div>
+        <div id="quizResults" class="hidden"></div>
+      </section>
+
+      <section class="view" id="view-subjects">
+        <div class="page-head"><div><span class="eyebrow">MAPA DE CONTENIDOS</span><h1>Temario MIR</h1><p>Organización editorial de 27 áreas y más de 300 temas para no dejar huecos.</p></div><div class="page-actions"><input class="filter-input" id="subjectFilter" placeholder="Filtrar materias…" /></div></div>
+        <div class="notice"><strong>Importante:</strong> el MIR no publica un temario detallado cerrado. Este mapa es una estructura de estudio, no una lista oficial de ponderaciones.</div>
+        <div class="subject-grid" id="subjectGrid"></div>
+      </section>
+
+      <section class="view" id="view-planner">
+        <div class="page-head"><div><span class="eyebrow">SPRINT DE 4 MESES</span><h1>Plan hasta el MIR</h1><p id="plannerSubtitle">Plan adaptado al 23 de enero de 2027.</p></div><div class="page-actions"><button class="secondary" id="printPlan">Imprimir plan</button></div></div>
+        <div class="planner-summary panel"><div><span>Días restantes</span><strong id="planDays">—</strong></div><div><span>Fase actual</span><strong id="planPhase">—</strong></div><div><span>Objetivo tarjetas/día</span><strong id="planDailyGoal">80</strong></div><div><span>Simulacros/semana</span><strong id="planMocks">1</strong></div></div>
+        <div class="timeline" id="planTimeline"></div>
+        <article class="panel weekly-template"><h2>Plantilla semanal recomendada</h2><div class="week-grid" id="weekGrid"></div></article>
+      </section>
+
+      <section class="view" id="view-library">
+        <div class="page-head"><div><span class="eyebrow">BANCO Y FUENTES</span><h1>Biblioteca</h1><p>Busca, importa contenido estructurado y exporta tu progreso.</p></div></div>
+        <div class="library-grid">
+          <article class="panel"><h2>Contenido cargado</h2><div class="library-metrics"><div><strong id="libCards">—</strong><span>tarjetas</span></div><div><strong id="libQuestions">—</strong><span>preguntas</span></div><div><strong id="libTopics">308</strong><span>temas mapeados</span></div></div><p class="muted">Tus 96 tarjetas de Otorrino se incorporaron conservando texto e imágenes. El banco restante es demostrativo y ampliable.</p></article>
+          <article class="panel"><h2>Importar / exportar</h2><p class="muted">Añade bancos JSON sin tocar el código o guarda una copia de tu progreso.</p><div class="stack-actions"><label class="secondary file-label">Importar JSON<input type="file" id="importJson" accept="application/json" hidden /></label><button class="secondary" id="exportProgress">Exportar progreso</button><button class="ghost danger" id="clearProgress">Borrar progreso local</button></div></article>
+          <article class="panel source-panel"><h2>Fuentes de formato MIR</h2><a href="https://www.boe.es/boe/dias/2026/08/10/pdfs/BOE-A-2026-17429.pdf" target="_blank" rel="noreferrer">Orden SND/854/2026 ↗</a><a href="https://www.sanidad.gob.es/gabinete/notasPrensa.do?id=6963&metodo=detalle" target="_blank" rel="noreferrer">Ministerio de Sanidad · convocatoria 2027 ↗</a><p class="muted">El contenido clínico debe mantener fuente, fecha de actualización y revisión editorial. La app separa infraestructura de contenido para facilitar ese control.</p></article>
+          <article class="panel warning-panel"><h2>Estado de validación</h2><p><strong>Infraestructura:</strong> lista para estudio personal.</p><p><strong>Mazo ORL:</strong> importado de tus archivos; no se ha revalidado clínicamente tarjeta por tarjeta.</p><p><strong>Preguntas demo:</strong> conceptos educativos de base; no sustituyen una academia, guía clínica ni revisión docente.</p></article>
+        </div>
+        <article class="panel search-results hidden" id="searchResults"><div class="panel-head"><h2>Resultados</h2><button class="ghost small" id="closeSearch">Cerrar</button></div><div id="searchResultsList"></div></article>
+      </section>
+    </main>
+  </div>
+  <div class="toast" id="toast"></div>
+  <script src="./app.js" defer></script>
+</body>
+</html>

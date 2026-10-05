@@ -1,0 +1,10 @@
+{
+  "name": "MIR Sprint 2027",
+  "short_name": "MIR Sprint",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0b1220",
+  "theme_color": "#0b1220",
+  "description": "Plan MIR intensivo con repetición espaciada, simulacros y temario.",
+  "icons": [{"src":"./assets/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}

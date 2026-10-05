@@ -1,0 +1,10 @@
+{
+  "name": "mir-sprint-2027",
+  "version": "1.0.0",
+  "private": true,
+  "description": "PWA estática para preparación MIR 2027",
+  "scripts": {
+    "dev": "python3 -m http.server 4173",
+    "check": "node --check app.js"
+  }
+}
