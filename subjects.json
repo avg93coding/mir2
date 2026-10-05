@@ -1,0 +1,526 @@
+[
+  {
+    "id": "cardio",
+    "name": "Cardiología",
+    "icon": "♥",
+    "priority": 5,
+    "topics": [
+      "Síndrome coronario agudo",
+      "Cardiopatía isquémica crónica",
+      "Insuficiencia cardiaca",
+      "Arritmias y ECG",
+      "Valvulopatías",
+      "Miocardiopatías",
+      "Pericardio",
+      "Hipertensión arterial",
+      "Endocarditis",
+      "Cardiopatías congénitas del adulto",
+      "Síncope",
+      "Prevención cardiovascular"
+    ]
+  },
+  {
+    "id": "neumo",
+    "name": "Neumología",
+    "icon": "◌",
+    "priority": 5,
+    "topics": [
+      "EPOC",
+      "Asma",
+      "Neumonía",
+      "Tuberculosis",
+      "Tromboembolismo pulmonar",
+      "Hipertensión pulmonar",
+      "Enfermedad intersticial",
+      "Cáncer de pulmón",
+      "Pleura",
+      "Insuficiencia respiratoria",
+      "Ventilación mecánica",
+      "Síndrome de apnea del sueño"
+    ]
+  },
+  {
+    "id": "digestivo",
+    "name": "Aparato Digestivo",
+    "icon": "≋",
+    "priority": 5,
+    "topics": [
+      "Hemorragia digestiva",
+      "ERGE y esófago",
+      "Úlcera péptica",
+      "Enfermedad inflamatoria intestinal",
+      "Hepatitis",
+      "Cirrosis y complicaciones",
+      "Páncreas",
+      "Vía biliar",
+      "Cáncer colorrectal",
+      "Hepatocarcinoma",
+      "Malabsorción y celiaquía",
+      "Motilidad",
+      "Abdomen agudo"
+    ]
+  },
+  {
+    "id": "neuro",
+    "name": "Neurología",
+    "icon": "⌁",
+    "priority": 5,
+    "topics": [
+      "Ictus",
+      "Epilepsia",
+      "Cefaleas",
+      "Demencias",
+      "Parkinson y trastornos del movimiento",
+      "Esclerosis múltiple",
+      "Neuropatías",
+      "Miopatías",
+      "ELA",
+      "Meningitis y encefalitis",
+      "Tumores SNC",
+      "Coma y muerte encefálica"
+    ]
+  },
+  {
+    "id": "endo",
+    "name": "Endocrinología",
+    "icon": "△",
+    "priority": 5,
+    "topics": [
+      "Diabetes mellitus",
+      "Complicaciones diabéticas",
+      "Tiroides",
+      "Suprarrenal",
+      "Hipófisis",
+      "Paratiroides y calcio",
+      "Osteoporosis",
+      "Obesidad",
+      "Dislipidemias",
+      "Trastornos hidroelectrolíticos",
+      "MEN y tumores endocrinos"
+    ]
+  },
+  {
+    "id": "nefro",
+    "name": "Nefrología",
+    "icon": "≈",
+    "priority": 4,
+    "topics": [
+      "Insuficiencia renal aguda",
+      "Enfermedad renal crónica",
+      "Síndrome nefrítico",
+      "Síndrome nefrótico",
+      "Glomerulopatías",
+      "Alteraciones ácido-base",
+      "Sodio y potasio",
+      "Hipertensión renal",
+      "Diálisis",
+      "Trasplante renal",
+      "Nefropatía diabética"
+    ]
+  },
+  {
+    "id": "infecciosas",
+    "name": "Enfermedades Infecciosas",
+    "icon": "✣",
+    "priority": 5,
+    "topics": [
+      "Sepsis",
+      "Antibioterapia",
+      "VIH",
+      "Tuberculosis",
+      "Endocarditis infecciosa",
+      "Infecciones SNC",
+      "Infecciones respiratorias",
+      "Infecciones urinarias",
+      "Infecciones gastrointestinales",
+      "Infecciones de piel y partes blandas",
+      "Zoonosis y tropicales",
+      "Vacunas y profilaxis"
+    ]
+  },
+  {
+    "id": "hemato",
+    "name": "Hematología",
+    "icon": "◆",
+    "priority": 5,
+    "topics": [
+      "Anemias",
+      "Hemólisis",
+      "Leucemias agudas",
+      "Síndromes mielodisplásicos",
+      "Neoplasias mieloproliferativas",
+      "Linfomas",
+      "Mieloma múltiple",
+      "Coagulación",
+      "Trombosis",
+      "Transfusión",
+      "Trasplante hematopoyético"
+    ]
+  },
+  {
+    "id": "reuma",
+    "name": "Reumatología",
+    "icon": "◇",
+    "priority": 4,
+    "topics": [
+      "Artritis reumatoide",
+      "Espondiloartritis",
+      "Lupus",
+      "Vasculitis",
+      "Esclerosis sistémica",
+      "Síndrome de Sjögren",
+      "Miopatías inflamatorias",
+      "Gota y cristales",
+      "Artrosis",
+      "Osteoporosis",
+      "Dolor musculoesquelético"
+    ]
+  },
+  {
+    "id": "gine",
+    "name": "Ginecología y Obstetricia",
+    "icon": "♀",
+    "priority": 5,
+    "topics": [
+      "Control del embarazo",
+      "Hemorragia del primer trimestre",
+      "Preeclampsia",
+      "Diabetes gestacional",
+      "Parto",
+      "Hemorragia posparto",
+      "Patología fetal",
+      "Anticoncepción",
+      "Amenorrea",
+      "Menopausia",
+      "Cáncer de cérvix",
+      "Cáncer de endometrio",
+      "Cáncer de ovario",
+      "Patología mamaria"
+    ]
+  },
+  {
+    "id": "pediatria",
+    "name": "Pediatría",
+    "icon": "☼",
+    "priority": 5,
+    "topics": [
+      "Neonatología",
+      "Crecimiento y desarrollo",
+      "Vacunación",
+      "Infecciones pediátricas",
+      "Respiratorio pediátrico",
+      "Cardiopatías congénitas",
+      "Digestivo pediátrico",
+      "Nefrología pediátrica",
+      "Neurología pediátrica",
+      "Hematología pediátrica",
+      "Urgencias pediátricas",
+      "Maltrato infantil"
+    ]
+  },
+  {
+    "id": "psiquiatria",
+    "name": "Psiquiatría",
+    "icon": "◐",
+    "priority": 4,
+    "topics": [
+      "Depresión",
+      "Trastorno bipolar",
+      "Esquizofrenia",
+      "Ansiedad",
+      "TOC",
+      "Trastornos de personalidad",
+      "Adicciones",
+      "Trastornos de la conducta alimentaria",
+      "Suicidio",
+      "Psicofarmacología",
+      "Urgencias psiquiátricas"
+    ]
+  },
+  {
+    "id": "derma",
+    "name": "Dermatología",
+    "icon": "▧",
+    "priority": 3,
+    "topics": [
+      "Lesiones elementales",
+      "Psoriasis",
+      "Dermatitis atópica",
+      "Dermatitis de contacto",
+      "Infecciones cutáneas",
+      "Ampollosas",
+      "Melanoma",
+      "Cáncer cutáneo no melanoma",
+      "Urticaria",
+      "Farmacodermias",
+      "Manifestaciones sistémicas"
+    ]
+  },
+  {
+    "id": "orl",
+    "name": "Otorrinolaringología",
+    "icon": "◒",
+    "priority": 3,
+    "topics": [
+      "Hipoacusia y audiología",
+      "Oído externo",
+      "Oído medio",
+      "Vértigo y equilibrio",
+      "Nariz y senos paranasales",
+      "Faringe y cavidad oral",
+      "Laringe y vía aérea",
+      "Nervio facial",
+      "Tumores ORL",
+      "Urgencias ORL"
+    ]
+  },
+  {
+    "id": "oftalmo",
+    "name": "Oftalmología",
+    "icon": "◎",
+    "priority": 3,
+    "topics": [
+      "Ojo rojo",
+      "Glaucoma",
+      "Catarata",
+      "Retina",
+      "Desprendimiento de retina",
+      "Uveítis",
+      "Neurooftalmología",
+      "Trauma ocular",
+      "Pediatría oftalmológica",
+      "Urgencias oftalmológicas"
+    ]
+  },
+  {
+    "id": "uro",
+    "name": "Urología",
+    "icon": "∪",
+    "priority": 3,
+    "topics": [
+      "Litiasis",
+      "HBP",
+      "Cáncer de próstata",
+      "Cáncer renal",
+      "Cáncer vesical",
+      "Infección urinaria",
+      "Hematuria",
+      "Escroto agudo",
+      "Disfunción eréctil",
+      "Trauma urológico"
+    ]
+  },
+  {
+    "id": "trauma",
+    "name": "Traumatología y Ortopedia",
+    "icon": "╱",
+    "priority": 3,
+    "topics": [
+      "Fracturas",
+      "Luxaciones",
+      "Trauma de columna",
+      "Trauma de pelvis",
+      "Mano",
+      "Rodilla",
+      "Hombro",
+      "Cadera",
+      "Ortopedia pediátrica",
+      "Tumores óseos",
+      "Síndrome compartimental"
+    ]
+  },
+  {
+    "id": "cirugia",
+    "name": "Cirugía General",
+    "icon": "✚",
+    "priority": 4,
+    "topics": [
+      "Valoración preoperatoria",
+      "Heridas y cicatrización",
+      "Shock",
+      "Trauma",
+      "Abdomen agudo",
+      "Apendicitis",
+      "Obstrucción intestinal",
+      "Hernias",
+      "Patología hepatobiliar",
+      "Cirugía colorrectal",
+      "Mama",
+      "Nutrición quirúrgica",
+      "Complicaciones posoperatorias"
+    ]
+  },
+  {
+    "id": "urgencias",
+    "name": "Urgencias y Cuidados Críticos",
+    "icon": "⚡",
+    "priority": 5,
+    "topics": [
+      "ABCDE",
+      "Shock",
+      "RCP",
+      "Síndrome coronario agudo",
+      "Ictus agudo",
+      "Sepsis",
+      "Trauma grave",
+      "Intoxicaciones",
+      "Alteraciones ácido-base",
+      "Anafilaxia",
+      "Insuficiencia respiratoria",
+      "Sedación y analgesia"
+    ]
+  },
+  {
+    "id": "onco",
+    "name": "Oncología",
+    "icon": "✦",
+    "priority": 4,
+    "topics": [
+      "Principios de oncología",
+      "Cribado de cáncer",
+      "Síndromes paraneoplásicos",
+      "Toxicidad de tratamientos",
+      "Inmunoterapia",
+      "Urgencias oncológicas",
+      "Cáncer de mama",
+      "Pulmón",
+      "Colorrectal",
+      "Próstata",
+      "Cuidados paliativos"
+    ]
+  },
+  {
+    "id": "inmuno",
+    "name": "Inmunología y Alergología",
+    "icon": "✧",
+    "priority": 3,
+    "topics": [
+      "Inmunidad innata y adaptativa",
+      "Hipersensibilidad",
+      "Inmunodeficiencias",
+      "Anafilaxia",
+      "Asma alérgica",
+      "Rinitis alérgica",
+      "Alergia alimentaria",
+      "Alergia a fármacos",
+      "Autoinmunidad",
+      "Terapias biológicas"
+    ]
+  },
+  {
+    "id": "farmaco",
+    "name": "Farmacología",
+    "icon": "Rx",
+    "priority": 4,
+    "topics": [
+      "Farmacocinética",
+      "Farmacodinamia",
+      "Interacciones",
+      "Antimicrobianos",
+      "Anticoagulantes",
+      "Antihipertensivos",
+      "Antidiabéticos",
+      "Psicofármacos",
+      "Analgesia",
+      "Toxicología",
+      "Embarazo y lactancia",
+      "Farmacovigilancia"
+    ]
+  },
+  {
+    "id": "preventiva",
+    "name": "Medicina Preventiva y Salud Pública",
+    "icon": "Σ",
+    "priority": 5,
+    "topics": [
+      "Epidemiología",
+      "Medidas de frecuencia",
+      "Medidas de asociación",
+      "Cribado",
+      "Vacunas",
+      "Brotes",
+      "Prevención primaria/secundaria/terciaria",
+      "Salud laboral",
+      "Economía de la salud",
+      "Gestión sanitaria",
+      "Seguridad del paciente"
+    ]
+  },
+  {
+    "id": "bioestad",
+    "name": "Bioestadística y MBE",
+    "icon": "μ",
+    "priority": 5,
+    "topics": [
+      "Diseños de estudio",
+      "Sesgos",
+      "Confusión",
+      "Sensibilidad y especificidad",
+      "Valores predictivos",
+      "RR y OR",
+      "Intervalos de confianza",
+      "p-valor",
+      "Pruebas diagnósticas",
+      "NNT y NNH",
+      "Meta-análisis",
+      "Lectura crítica"
+    ]
+  },
+  {
+    "id": "etica",
+    "name": "Bioética y Medicina Legal",
+    "icon": "§",
+    "priority": 3,
+    "topics": [
+      "Consentimiento informado",
+      "Capacidad",
+      "Confidencialidad",
+      "Menores",
+      "Final de vida",
+      "Voluntades anticipadas",
+      "Responsabilidad profesional",
+      "Certificados",
+      "Violencia de género",
+      "Donación y trasplante",
+      "Investigación clínica"
+    ]
+  },
+  {
+    "id": "genetica",
+    "name": "Genética y Anatomía Patológica",
+    "icon": "DNA",
+    "priority": 3,
+    "topics": [
+      "Herencia mendeliana",
+      "Alteraciones cromosómicas",
+      "Consejo genético",
+      "Oncogenes y supresores",
+      "Patología celular",
+      "Inflamación",
+      "Neoplasia",
+      "Inmunohistoquímica",
+      "Biología molecular",
+      "Medicina de precisión"
+    ]
+  },
+  {
+    "id": "geriatria",
+    "name": "Geriatría y Medicina Familiar",
+    "icon": "∞",
+    "priority": 4,
+    "topics": [
+      "Valoración geriátrica integral",
+      "Fragilidad",
+      "Caídas",
+      "Polifarmacia",
+      "Delirium",
+      "Demencia",
+      "Incontinencia",
+      "Nutrición",
+      "Atención primaria",
+      "Prevención",
+      "Cronicidad y multimorbilidad",
+      "Cuidados paliativos"
+    ]
+  }
+]

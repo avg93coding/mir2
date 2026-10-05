@@ -1,0 +1,34 @@
+{
+  "cards": [
+    {
+      "id": "demo-card-001",
+      "subject": "Cardiología",
+      "topic": "Arritmias y ECG",
+      "question": "¿Qué intervalo se prolonga en un BAV de primer grado?",
+      "answer": "Intervalo PR (>200 ms).",
+      "explanation": "Debe mantenerse conducción auriculoventricular 1:1.",
+      "cardType": "flashcard",
+      "difficulty": 2,
+      "tags": ["MIR", "ECG"],
+      "source": "Ejemplo de estructura; sustituir por fuente editorial validada",
+      "sourceUrl": "",
+      "updatedAt": "2026-10-04"
+    }
+  ],
+  "questions": [
+    {
+      "id": "demo-q-001",
+      "subjectId": "cardio",
+      "subject": "Cardiología",
+      "topic": "Arritmias y ECG",
+      "question": "¿Qué hallazgo define un BAV de primer grado?",
+      "options": ["PR > 200 ms", "QRS > 120 ms", "QTc < 350 ms", "ST elevado difuso"],
+      "correctIndex": 0,
+      "explanation": "El BAV de primer grado se define por prolongación del PR con conducción 1:1.",
+      "difficulty": 2,
+      "updatedAt": "2026-10-04",
+      "source": "Ejemplo de estructura; sustituir por fuente editorial validada",
+      "sourceUrl": ""
+    }
+  ]
+}

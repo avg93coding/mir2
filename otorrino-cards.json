@@ -1,0 +1,1922 @@
+[
+  {
+    "id": "orl-001",
+    "subject": "Otorrinolaringología",
+    "topic": "Hipoacusia y audiología",
+    "question": "Rinne -, Weber hacia sano, Schwabach acortado",
+    "answer": "Cofosis unilateral",
+    "explanation": "Perdida total de oido. <br>HNS con falso negativo del Rinne por transmision a via osea contralateral!",
+    "cardType": "flashcard",
+    "difficulty": 2,
+    "tags": [
+      "MIR",
+      "ORL",
+      "usuario",
+      "texto"
+    ],
+    "source": "Mazo ANKI proporcionado por el usuario",
+    "sourceUrl": "",
+    "updatedAt": "2026-07-22",
+    "origin": "user-deck"
+  },
+  {
+    "id": "orl-002",
+    "subject": "Otorrinolaringología",
+    "topic": "Oído medio",
+    "question": "Tímpano retraído + niveles hidroaereos",
+    "answer": "Otitis media secretora crónica",
+    "explanation": "Usualmente asintomática con&nbsp;<u>hipoacusia de transmision</u>.<br><br><u>1a causa de sordera en infancia</u><br>&nbsp;<br>Tto:<br><ol><li><b>Conducta inicial:&nbsp;<span style=\"color: rgb(255, 170, 0);\">Observación</span></b><span style=\"color: rgb(255, 170, 0);\"> </span>8–12 semanas y control audiológico</li><li><b>Tubos de ventilación transtimpánicos</b> (diábolo)&nbsp;si ≥3 meses + hipoacusia/impacto escolar y/o&nbsp;<b>adenoidectomía</b> en &gt;4 años o recurrencias.</li></ol>",
+    "cardType": "flashcard",
+    "difficulty": 2,
+    "tags": [
+      "MIR",
+      "ORL",
+      "usuario",
+      "texto"
+    ],
+    "source": "Mazo ANKI proporcionado por el usuario",
+    "sourceUrl": "",
+    "updatedAt": "2026-06-09",
+    "origin": "user-deck"
+  },
+  {
+    "id": "orl-003",
+    "subject": "Otorrinolaringología",
+    "topic": "Tumores ORL",
+    "question": "Nódulo cervical central que asciende al deglutir",
+    "answer": "Quiste tirogloso",
+    "explanation": "Resto embrionario del conducto tirogloso.<br>Niños o adultos jóvenes con masa cervical media, móvil, de consistencia blanda/quística que se&nbsp;mueve con la deglución y con la protrusión de la lengua.<br><br>Tx:<span style=\"color: rgb(255, 170, 0);\">&nbsp;técnica de Sistrunk </span>(resección completa del quiste, del conducto tirogloso + <span style=\"color: rgb(0, 0, 0);\"><u>cuerpo central del hioides</u> - reduce riesgo re</span>cidiva).<br><br>DxD:&nbsp;Si estuviese lateral y no asciende, de consistencia elastica: <b>quiste branquial</b> (si pulsatil y solo se desplaza horizontalmente es un paraganglioma/quemodectoma carotídeo",
+    "cardType": "flashcard",
+    "difficulty": 2,
+    "tags": [
+      "MIR",
+      "ORL",
+      "usuario",
+      "texto"
+    ],
+    "source": "Mazo ANKI proporcionado por el usuario",
+    "sourceUrl": "",
+    "updatedAt": "2026-07-15",
+    "origin": "user-deck"
+  },
+  {
+    "id": "orl-004",
+    "subject": "Otorrinolaringología",
+    "topic": "Hipoacusia y audiología",
+    "question": "Hipoacusia neurosensorial bilateral con escalón en 4000Hz",
+    "answer": "Sordera laboral",
+    "explanation": "DD: escotoma de carhart de la otoesclerosis a 2000Hz",
+    "cardType": "flashcard",
+    "difficulty": 2,
+    "tags": [
+      "MIR",
+      "ORL",
+      "usuario",
+      "texto"
+    ],
+    "source": "Mazo ANKI proporcionado por el usuario",
+    "sourceUrl": "",
+    "updatedAt": "2026-02-23",
+    "origin": "user-deck"
+  },
+  {
+    "id": "orl-005",
+    "subject": "Otorrinolaringología",
+    "topic": "Laringe y vía aérea",
+    "question": "Tumoración cervical que aumenta con Valsalva",
+    "answer": "Laringocele",
+    "explanation": "El laringocele se asocia a carcinoma en 10%.<br><u>Comunica con el ventriculo laringeo</u> y se hernia a traves de la <u>membrana tirohioidea</u>.<br><br><img src=\"./media/otorrino/3ce1b6b4bf23e0eca25040256c292d8b.png\">",
+    "cardType": "flashcard",
+    "difficulty": 2,
+    "tags": [
+      "MIR",
+      "ORL",
+      "usuario",
+      "texto"
+    ],
+    "source": "Mazo ANKI proporcionado por el usuario",
+    "sourceUrl": "",
+    "updatedAt": "2026-02-23",
+    "origin": "user-deck"
+  },
+  {
+    "id": "orl-006",
+    "subject": "Otorrinolaringología",
+    "topic": "Oído medio",
+    "question": "Bullas en CAE y membrana timpánica",
+    "answer": "Miringitis bullosa (<span style=\"color: rgb(255, 170, 0);\">Mycoplasma Pneumoniae</span>)",
+    "explanation": "Sí fuesen hemorrágicas sería por GRIPE!<br><br>No confundir con VHZ que afecta VII par (porción externa CAE y área RH, <u>nunca tímpano</u>).",
+    "cardType": "flashcard",
+    "difficulty": 2,
+    "tags": [
+      "MIR",
+      "ORL",
+      "usuario",
+      "texto"
+    ],
+    "source": "Mazo ANKI proporcionado por el usuario",
+    "sourceUrl": "",
+    "updatedAt": "2026-06-09",
+    "origin": "user-deck"
+  },
+  {
+    "id": "orl-007",
+    "subject": "Otorrinolaringología",
+    "topic": "Otorrinolaringología general",
+    "question": "Absceso perimandibular + fistulización al exterior y drenaje de gránulos de azufre",
+    "answer": "<b>Actinomicosis</b>",
+    "explanation": "actinomyces israelii,&nbsp;<b>gram+<br></b><br>Tto:&nbsp;<b>Penicilina G&nbsp;iv&nbsp;</b>(4-6 semanas)<b>&nbsp;+ drenaje</b>",
+    "cardType": "flashcard",
+    "difficulty": 2,
+    "tags": [
+      "MIR",
+      "ORL",
+      "usuario",
+      "texto"
+    ],
+    "source": "Mazo ANKI proporcionado por el usuario",
+    "sourceUrl": "",
+    "updatedAt": "2026-02-25",
+    "origin": "user-deck"
+  },
+  {
+    "id": "orl-008",
+    "subject": "Otorrinolaringología",
+    "topic": "Faringe y cavidad oral",
+    "question": "Adenopatía cervical<br>1. + PAAF positiva en VEB<br>2. + PAAF postiva en VPH16<br>3. + PAAF negativa en VEB y VPH",
+    "answer": "1.&nbsp;<b>Cavum&nbsp;</b>(escamosos)<br>2. Orofaringe<br>3. Resto cabeza y cuello",
+    "explanation": "<img src=\"./media/otorrino/paste-9a42a64497c48f4fbf1386cd739ff8c08373b94a.jpg\">",
+    "cardType": "flashcard",
+    "difficulty": 2,
+    "tags": [
+      "MIR",
+      "ORL",
+      "usuario",
+      "texto"
+    ],
+    "source": "Mazo ANKI proporcionado por el usuario",
+    "sourceUrl": "",
+    "updatedAt": "2026-03-06",
+    "origin": "user-deck"
+  },
+  {
+    "id": "orl-009",
+    "subject": "Otorrinolaringología",
+    "topic": "Otorrinolaringología general",
+    "question": "<span style=\"font-weight: 600;\">Niño de 9 años que ha sufrido recientemente un traumatismo directo sobre el mentón y que presenta dificultad para la apertura de la boca y maloclusión dental</span>",
+    "answer": "<table><tbody><tr><td><b>Fractura de cóndilo mandibular</b>.</td></tr></tbody></table><br>",
+    "explanation": "Al romperse el cóndilo los músculos asociados se contraen desplazando la mandíbula ipsilateralmente.",
+    "cardType": "flashcard",
+    "difficulty": 2,
+    "tags": [
+      "MIR",
+      "ORL",
+      "usuario",
+      "texto"
+    ],
+    "source": "Mazo ANKI proporcionado por el usuario",
+    "sourceUrl": "",
+    "updatedAt": "2026-03-06",
+    "origin": "user-deck"
+  },
+  {
+    "id": "orl-010",
+    "subject": "Otorrinolaringología",
+    "topic": "Nariz y senos paranasales",
+    "question": "Varón de edad intermedia con obstrucción nasal y epistaxis unilateral",
+    "answer": "<b>Papiloma invertido</b>",
+    "explanation": "Tumor&nbsp;benigno&nbsp;de mucosa respiratoria (epitelio transicional), sobre todo&nbsp;seno maxilar&nbsp;y&nbsp;pared lateral de la fosa nasal.<br><br>Alta tasa de recidiva (15-20%)<br>Malignizacion a carcinoma epidermoide en un 5-15% de casos --&gt; seguimiento endoscopico prolongado.",
+    "cardType": "flashcard",
+    "difficulty": 2,
+    "tags": [
+      "MIR",
+      "ORL",
+      "usuario",
+      "texto"
+    ],
+    "source": "Mazo ANKI proporcionado por el usuario",
+    "sourceUrl": "",
+    "updatedAt": "2026-03-06",
+    "origin": "user-deck"
+  },
+  {
+    "id": "orl-011",
+    "subject": "Otorrinolaringología",
+    "topic": "Faringe y cavidad oral",
+    "question": "Antecedentes de faringitis + tromboflebitis yugular",
+    "answer": "<b>Enfermedad de Lemierre</b>",
+    "explanation": "complicación grave de la faringitis (<b>abs­ce­so la­te­ro­fa­rín­geo</b>), producida por&nbsp;<b>Fusobacterium necrophorum</b>, en la que se produce una tromboflebitis de la&nbsp;<b>vena yugular interna</b>&nbsp;y un foco de infección capaz de producir&nbsp;émbolos septicos pulmonares&nbsp;(simula endocarditis tricuspidea).<br><br><img src=\"./media/otorrino/8206d6ddfafdcf43e079895aaa4e0aa6.png\">",
+    "cardType": "flashcard",
+    "difficulty": 2,
+    "tags": [
+      "MIR",
+      "ORL",
+      "usuario",
+      "texto"
+    ],
+    "source": "Mazo ANKI proporcionado por el usuario",
+    "sourceUrl": "",
+    "updatedAt": "2026-03-06",
+    "origin": "user-deck"
+  },
+  {
+    "id": "orl-012",
+    "subject": "Otorrinolaringología",
+    "topic": "Oído medio",
+    "question": "Antecedentes otitis media aguda + dolor retroauricular + leucocitosis",
+    "answer": "<b>Mastoiditis</b>.",
+    "explanation": "complicacion mas freq.&nbsp;<br>Tto: Cefalosporina 3G&nbsp;<b>IV</b>&nbsp;+ Drenaje transtimpánico",
+    "cardType": "flashcard",
+    "difficulty": 2,
+    "tags": [
+      "MIR",
+      "ORL",
+      "usuario",
+      "texto"
+    ],
+    "source": "Mazo ANKI proporcionado por el usuario",
+    "sourceUrl": "",
+    "updatedAt": "2026-03-06",
+    "origin": "user-deck"
+  },
+  {
+    "id": "orl-013",
+    "subject": "Otorrinolaringología",
+    "topic": "Oído medio",
+    "question": "Antecedentes Otitis media aguda + dolor retroorbitario + diplopía",
+    "answer": "<b>Petrositis</b>.",
+    "explanation": "Tipica el sindrome de Gradeningo: dolor ocular (V par) + diplopia (VI par) + otorrea<br><br>Tto: mastoidectomia ampliada hasta el aprex + antibiotico IV",
+    "cardType": "flashcard",
+    "difficulty": 2,
+    "tags": [
+      "MIR",
+      "ORL",
+      "usuario",
+      "texto"
+    ],
+    "source": "Mazo ANKI proporcionado por el usuario",
+    "sourceUrl": "",
+    "updatedAt": "2026-03-06",
+    "origin": "user-deck"
+  },
+  {
+    "id": "orl-014",
+    "subject": "Otorrinolaringología",
+    "topic": "Oído medio",
+    "question": "Antecedentes de otitis media aguda + vértigo",
+    "answer": "Laberintitis.",
+    "explanation": "",
+    "cardType": "flashcard",
+    "difficulty": 2,
+    "tags": [
+      "MIR",
+      "ORL",
+      "usuario",
+      "texto"
+    ],
+    "source": "Mazo ANKI proporcionado por el usuario",
+    "sourceUrl": "",
+    "updatedAt": "2026-03-06",
+    "origin": "user-deck"
+  },
+  {
+    "id": "orl-015",
+    "subject": "Otorrinolaringología",
+    "topic": "Tumores ORL",
+    "question": "Carpintero/ebanista, que tumor tiene tipicamente?&nbsp;&nbsp;",
+    "answer": "Carcinoma de etmoide",
+    "explanation": "",
+    "cardType": "flashcard",
+    "difficulty": 2,
+    "tags": [
+      "MIR",
+      "ORL",
+      "usuario",
+      "texto"
+    ],
+    "source": "Mazo ANKI proporcionado por el usuario",
+    "sourceUrl": "",
+    "updatedAt": "2026-03-06",
+    "origin": "user-deck"
+  },
+  {
+    "id": "orl-016",
+    "subject": "Otorrinolaringología",
+    "topic": "Otorrinolaringología general",
+    "question": "Cirugía parotídea + dolor + eritema y sudor tras la masticación",
+    "answer": "<b>Síndrome de Frey</b>",
+    "explanation": "Complicación tras una cirugía de la parótida (6-12 meses tras parotirectomia).<br>N.&nbsp;<b>auriculotemporal&nbsp;</b>(rama&nbsp;<b>V3</b>).<br><br>Tto:&nbsp;<u>Inyección de toxina botulínica intradérmica</u>",
+    "cardType": "flashcard",
+    "difficulty": 2,
+    "tags": [
+      "MIR",
+      "ORL",
+      "usuario",
+      "texto"
+    ],
+    "source": "Mazo ANKI proporcionado por el usuario",
+    "sourceUrl": "",
+    "updatedAt": "2026-03-06",
+    "origin": "user-deck"
+  },
+  {
+    "id": "orl-017",
+    "subject": "Otorrinolaringología",
+    "topic": "Hipoacusia y audiología",
+    "question": "Como varia la audiometria verbal en la hipoacusia de transmision?",
+    "answer": "Se desplaza hacia la derecha",
+    "explanation": "<img alt=\"Logoaudiometría | Adrián Salgado | Óptica y Audición\" src=\"./media/otorrino/logoaudiometria-coruna-1024x724-1.jpg\"><br>Si hipoacusia&nbsp;<span style=\"color: rgb(85, 255, 255);\"><b>C</b></span>oclear (de percepcion) hay forma de&nbsp;<span style=\"color: rgb(85, 255, 255);\"><b>C</b></span>ampana.",
+    "cardType": "flashcard",
+    "difficulty": 2,
+    "tags": [
+      "MIR",
+      "ORL",
+      "usuario",
+      "texto"
+    ],
+    "source": "Mazo ANKI proporcionado por el usuario",
+    "sourceUrl": "",
+    "updatedAt": "2026-06-09",
+    "origin": "user-deck"
+  },
+  {
+    "id": "orl-018",
+    "subject": "Otorrinolaringología",
+    "topic": "Otorrinolaringología general",
+    "question": "Criterios de Centor",
+    "answer": "<ul><li><span style=\"color: rgb(255, 0, 0);\"><b>C</b></span>an't&nbsp;<b>c</b>ough (no tos)</li><li><span style=\"color: rgb(255, 0, 0);\"><b>E</b></span>xudado purulento</li><li><span style=\"color: rgb(255, 0, 0);\"><b>N</b></span>odo (adenopatía grande dolorosa)</li><li><span style=\"color: rgb(255, 0, 0);\"><b>T</b></span>emperatura &gt;38ºC</li><li><span style=\"color: rgb(255, 0, 0);\">O</span>ld&nbsp;<b>o<span style=\"color: rgb(255, 0, 0);\">r</span></b>&nbsp;young (<b>3-15 años</b>)</li></ul>",
+    "explanation": "\"CENTOr\"<br><br>Test de&nbsp;<em>S. pyogenes</em>&nbsp;si&nbsp;<b>2 o mas</b>",
+    "cardType": "flashcard",
+    "difficulty": 2,
+    "tags": [
+      "MIR",
+      "ORL",
+      "usuario",
+      "texto"
+    ],
+    "source": "Mazo ANKI proporcionado por el usuario",
+    "sourceUrl": "",
+    "updatedAt": "2026-06-09",
+    "origin": "user-deck"
+  },
+  {
+    "id": "orl-019",
+    "subject": "Otorrinolaringología",
+    "topic": "Laringe y vía aérea",
+    "question": "Cáncer en paciente con disfonía persistente y progresiva (&gt;15 dias)",
+    "answer": "<b>Carcinoma de laringe glótico</b>.",
+    "explanation": "Tiene&nbsp;<u>mejor pronostico</u>.&nbsp;<br><b>NO PRODUCE AFECTACION GANGLIONAR</b>.",
+    "cardType": "flashcard",
+    "difficulty": 2,
+    "tags": [
+      "MIR",
+      "ORL",
+      "usuario",
+      "texto"
+    ],
+    "source": "Mazo ANKI proporcionado por el usuario",
+    "sourceUrl": "",
+    "updatedAt": "2026-06-09",
+    "origin": "user-deck"
+  },
+  {
+    "id": "orl-020",
+    "subject": "Otorrinolaringología",
+    "topic": "Laringe y vía aérea",
+    "question": "Picor faringeo es tipico de que tumor?",
+    "answer": "Carcinoma de laringe supraglotico",
+    "explanation": "Peor pronostico, se asocia a alcohol. <br>\"<i>Supraglotico es Super metastasico a nivel linfatico\"</i><br><br>El principal factor pronostico es la presencia de adenopatias.&nbsp;",
+    "cardType": "flashcard",
+    "difficulty": 2,
+    "tags": [
+      "MIR",
+      "ORL",
+      "usuario",
+      "texto"
+    ],
+    "source": "Mazo ANKI proporcionado por el usuario",
+    "sourceUrl": "",
+    "updatedAt": "2026-06-09",
+    "origin": "user-deck"
+  },
+  {
+    "id": "orl-021",
+    "subject": "Otorrinolaringología",
+    "topic": "Oído medio",
+    "question": "Diabetes/inmunosupresion + otalgia intensa y profunda, desproporcionada a la exploración +&nbsp;otorrea purulenta e hipoacusia + malestar general + signo del trago positivo",
+    "answer": "<b>Otitis externa maligna</b>&nbsp;por Pseudomonas aeruginosa.",
+    "explanation": "Tejido de granulacion en conducto auditivo externo.<br><br>Tto:&nbsp;<b>ciprofloxacino</b>&nbsp;IV prolongado 6-8 semanas &nbsp;+/- desbridamiento quirurgico.",
+    "cardType": "flashcard",
+    "difficulty": 2,
+    "tags": [
+      "MIR",
+      "ORL",
+      "usuario",
+      "texto"
+    ],
+    "source": "Mazo ANKI proporcionado por el usuario",
+    "sourceUrl": "",
+    "updatedAt": "2026-03-06",
+    "origin": "user-deck"
+  },
+  {
+    "id": "orl-022",
+    "subject": "Otorrinolaringología",
+    "topic": "Otorrinolaringología general",
+    "question": "Dificultad para el cierre de la ATM",
+    "answer": "<b>Luxacion del condilo mandibular</b>",
+    "explanation": "Si dificultad para la apertura: bloqueo articular (luxacion anterior del menisco).",
+    "cardType": "flashcard",
+    "difficulty": 2,
+    "tags": [
+      "MIR",
+      "ORL",
+      "usuario",
+      "texto"
+    ],
+    "source": "Mazo ANKI proporcionado por el usuario",
+    "sourceUrl": "",
+    "updatedAt": "2026-03-06",
+    "origin": "user-deck"
+  },
+  {
+    "id": "orl-023",
+    "subject": "Otorrinolaringología",
+    "topic": "Vértigo y equilibrio",
+    "question": "Como es el nistagmo en el vertigo periferico?",
+    "answer": "Fase rapida del nistagmo&nbsp;horizonto-rotatorio unidireccional&nbsp;hacia el lado sano",
+    "explanation": "Aumenta cuando dirige la mirada en la dirección de la fase rápida y al inhibir la fijación visual (gafas de Frenzel). <br>Disminuye con la fijacion de la mirada.&nbsp;<br><i>\"la oreja sana tira el ojo&nbsp;si no hay problemas centrales.\"</i><br><i><br></i><b>Romberg+</b>. (desviacion hacia lado patologico)<br><i>\"</i><i>el oido sano empuja el cuerpo</i><i>\"</i>",
+    "cardType": "flashcard",
+    "difficulty": 2,
+    "tags": [
+      "MIR",
+      "ORL",
+      "usuario",
+      "texto"
+    ],
+    "source": "Mazo ANKI proporcionado por el usuario",
+    "sourceUrl": "",
+    "updatedAt": "2026-06-09",
+    "origin": "user-deck"
+  },
+  {
+    "id": "orl-024",
+    "subject": "Otorrinolaringología",
+    "topic": "Nariz y senos paranasales",
+    "question": "Cual es el tumor maligno nasosinusal más frecuente?",
+    "answer": "<b>Carcinoma epidermoide de seno maxilar</b>",
+    "explanation": "",
+    "cardType": "flashcard",
+    "difficulty": 2,
+    "tags": [
+      "MIR",
+      "ORL",
+      "usuario",
+      "texto"
+    ],
+    "source": "Mazo ANKI proporcionado por el usuario",
+    "sourceUrl": "",
+    "updatedAt": "2026-03-06",
+    "origin": "user-deck"
+  },
+  {
+    "id": "orl-025",
+    "subject": "Otorrinolaringología",
+    "topic": "Otorrinolaringología general",
+    "question": "En la cavidad oral, la lesión premaligna más frecuente es la ______ y la que maligniza con más probabilidad es la ______.",
+    "answer": "<ul><li>LEUCOPLASIA</li><li>ERITROPLASIA</li></ul>",
+    "explanation": "",
+    "cardType": "flashcard",
+    "difficulty": 2,
+    "tags": [
+      "MIR",
+      "ORL",
+      "usuario",
+      "texto"
+    ],
+    "source": "Mazo ANKI proporcionado por el usuario",
+    "sourceUrl": "",
+    "updatedAt": "2026-03-06",
+    "origin": "user-deck"
+  },
+  {
+    "id": "orl-026",
+    "subject": "Otorrinolaringología",
+    "topic": "Hipoacusia y audiología",
+    "question": "En que hipoacusias hay distorsion de la intensidad en la audiometria supraliminar?",
+    "answer": "<b>Hipoacusias cocleares</b>&nbsp;(lesión de las células ciliadas externas)",
+    "explanation": "Fenomeno del \"reclutamiento\" (sensacion subjetiva de intrensidad mayor): el umbral doloroso aparece antes, estrechandose el umbral auditivo.&nbsp;<br><i>\"RECLUTANDO CARACOLES\".</i>",
+    "cardType": "flashcard",
+    "difficulty": 2,
+    "tags": [
+      "MIR",
+      "ORL",
+      "usuario",
+      "texto"
+    ],
+    "source": "Mazo ANKI proporcionado por el usuario",
+    "sourceUrl": "",
+    "updatedAt": "2026-06-09",
+    "origin": "user-deck"
+  },
+  {
+    "id": "orl-027",
+    "subject": "Otorrinolaringología",
+    "topic": "Hipoacusia y audiología",
+    "question": "De que hipoacusia es tipica la fatiga auditiva?",
+    "answer": "Hipoacusias retrococleares",
+    "explanation": "",
+    "cardType": "flashcard",
+    "difficulty": 2,
+    "tags": [
+      "MIR",
+      "ORL",
+      "usuario",
+      "texto"
+    ],
+    "source": "Mazo ANKI proporcionado por el usuario",
+    "sourceUrl": "",
+    "updatedAt": "2026-03-06",
+    "origin": "user-deck"
+  },
+  {
+    "id": "orl-028",
+    "subject": "Otorrinolaringología",
+    "topic": "Otorrinolaringología general",
+    "question": "Fiebre + masa dolorosa dura submandibular y suelo de la boca",
+    "answer": "<b>Angina de Ludwig</b>",
+    "explanation": "<b>Celulitis necrosante bilateral&nbsp;rápidamente progresiva</b>&nbsp;del suelo de la boca<b>&nbsp;</b>por<b>&nbsp;</b>infección&nbsp;<b>polimicrobiana&nbsp;</b>(<b>Streptococcus&nbsp;</b>viridans,&nbsp;<b>anaerobios&nbsp;</b>+/- SARM), de&nbsp;origen casi siempre odontógeno&nbsp;(infección de 2° o 3° molares inferiores).<br><br>Tratamiento urgente para evitar obstruccion de via aerea:&nbsp;<b>asegurar vía aérea&nbsp;+ antibióticos IV de amplio espectro&nbsp;</b>(<b>ampicilina-sulbactam</b>, ceftriaxona-sulbactam +/- vanco/linezolid si sospecha SARM)",
+    "cardType": "flashcard",
+    "difficulty": 2,
+    "tags": [
+      "MIR",
+      "ORL",
+      "usuario",
+      "texto"
+    ],
+    "source": "Mazo ANKI proporcionado por el usuario",
+    "sourceUrl": "",
+    "updatedAt": "2026-06-09",
+    "origin": "user-deck"
+  },
+  {
+    "id": "orl-029",
+    "subject": "Otorrinolaringología",
+    "topic": "Oído medio",
+    "question": "Fractura craneal con hipoacusia de transmisión + otolicuorrea",
+    "answer": "<b>Fractura longitudinal de peñasco</b>.",
+    "explanation": "<b>LON</b>gitudinal →&nbsp;oído&nbsp;<b>ME</b>dio&nbsp;→&nbsp;hipoacusia transmisiva&nbsp;+ parálisis facial tardía. Timpano&nbsp;<b>roto</b>.<br>\"<i>Da pena el&nbsp;<b>ME-LON roto</b>.</i>\"",
+    "cardType": "flashcard",
+    "difficulty": 2,
+    "tags": [
+      "MIR",
+      "ORL",
+      "usuario",
+      "texto"
+    ],
+    "source": "Mazo ANKI proporcionado por el usuario",
+    "sourceUrl": "",
+    "updatedAt": "2026-06-09",
+    "origin": "user-deck"
+  },
+  {
+    "id": "orl-030",
+    "subject": "Otorrinolaringología",
+    "topic": "Oído medio",
+    "question": "Fractura craneal con hipoacusia neurosensorial + rinolocuorrea",
+    "answer": "Fractura transversal de peñasco.",
+    "explanation": "<b>TRANS</b>versal →&nbsp;oído <b>INT</b>erno&nbsp;→&nbsp;hipoacusia neurosensorial&nbsp;+ parálisis facial inmediata. Timpano integro. Atraviesan el facial.<br>\"<i><b>TRANS </b>es <b>INT</b>eligente</i>.\"",
+    "cardType": "flashcard",
+    "difficulty": 2,
+    "tags": [
+      "MIR",
+      "ORL",
+      "usuario",
+      "texto"
+    ],
+    "source": "Mazo ANKI proporcionado por el usuario",
+    "sourceUrl": "",
+    "updatedAt": "2026-06-09",
+    "origin": "user-deck"
+  },
+  {
+    "id": "orl-031",
+    "subject": "Otorrinolaringología",
+    "topic": "Nervio facial",
+    "question": "Inervacion estribo y martillo",
+    "answer": "<ul><li>El nervio que inerva al músculo del estribo es el VII par craneal (Facial)</li><li>El nervio que inerva al músculo del martillo es el V par craneal (Trigémino)</li></ul>",
+    "explanation": "<img src=\"./media/otorrino/b2e169ea62f03db3e9cbeb215c20f3ad.png\"><br><img src=\"./media/otorrino/942c0a375444dd346b4f6924345e643d.png\">",
+    "cardType": "flashcard",
+    "difficulty": 2,
+    "tags": [
+      "MIR",
+      "ORL",
+      "usuario",
+      "texto"
+    ],
+    "source": "Mazo ANKI proporcionado por el usuario",
+    "sourceUrl": "",
+    "updatedAt": "2026-06-09",
+    "origin": "user-deck"
+  },
+  {
+    "id": "orl-032",
+    "subject": "Otorrinolaringología",
+    "topic": "Vértigo y equilibrio",
+    "question": "Mujer que refiere crisis recurrentes de vértigo intenso de varios minutos de duración, acompañadas de acúfenos y pérdida auditiva en oído izquierdo.",
+    "answer": "<b>Enfermedad de Menière</b>",
+    "explanation": "Hipoacusia neurosensorial fluctuante por hidropesía endolinfática.<br><br>Tratamiento: dieta hiposódica,&nbsp;<b>betahistina</b>,&nbsp;diuréticos.",
+    "cardType": "flashcard",
+    "difficulty": 2,
+    "tags": [
+      "MIR",
+      "ORL",
+      "usuario",
+      "texto"
+    ],
+    "source": "Mazo ANKI proporcionado por el usuario",
+    "sourceUrl": "",
+    "updatedAt": "2026-03-06",
+    "origin": "user-deck"
+  },
+  {
+    "id": "orl-033",
+    "subject": "Otorrinolaringología",
+    "topic": "Hipoacusia y audiología",
+    "question": "Mujer embarazada con hipoacusia de transmision",
+    "answer": "<b>Otoesclerosis</b>",
+    "explanation": "AD. Cr 15.<br><br>Escotomas 2000 Hz (Carhart) + Reflejo estapedial ausente.<i><br></i><img alt=\"Otosclerosis | GAES ORL GUIDE\" src=\"./media/otorrino/4964230000000.jpeg\"><br>\"<i>DOSmil: ODOSclerosis</i>\"<br><br>Tto: estapedectomia o estapedotomia (se crea agujero)",
+    "cardType": "flashcard",
+    "difficulty": 2,
+    "tags": [
+      "MIR",
+      "ORL",
+      "usuario",
+      "texto"
+    ],
+    "source": "Mazo ANKI proporcionado por el usuario",
+    "sourceUrl": "",
+    "updatedAt": "2026-06-09",
+    "origin": "user-deck"
+  },
+  {
+    "id": "orl-034",
+    "subject": "Otorrinolaringología",
+    "topic": "Tumores ORL",
+    "question": "Mujer hipertensa con acúfeno pulsátil/tumoración roja timpánica",
+    "answer": "<b>Glomus yugulotimpánico</b>&nbsp;(Paraganglioma&nbsp;del oído medio, derivado de celulas cromafines de cresta neural)",
+    "explanation": "<img alt=\"Paraganglioma timpano-giugulare o del temporale - ORL Modena\" src=\"./media/otorrino/Paraganglioma-timpano-giugulare-o-del-temporale-6.jpg\"><br><sub>Masa rojiza retro­timpánica en la otoscopia, que palpita al ritmo cardíaco.<br></sub><br>Manejo →&nbsp;<b>embolización</b>&nbsp;previa (tras angiografia) +&nbsp;<b>cirugía</b>.",
+    "cardType": "flashcard",
+    "difficulty": 2,
+    "tags": [
+      "MIR",
+      "ORL",
+      "usuario",
+      "texto"
+    ],
+    "source": "Mazo ANKI proporcionado por el usuario",
+    "sourceUrl": "",
+    "updatedAt": "2026-03-06",
+    "origin": "user-deck"
+  },
+  {
+    "id": "orl-035",
+    "subject": "Otorrinolaringología",
+    "topic": "Hipoacusia y audiología",
+    "question": "Muy mala discriminación + curva en meseta en la logoaudiometria",
+    "answer": "<b>HIPOACUSIA NEUROSENSORIAL RETROCOCLEAR (por fatiga)</b>",
+    "explanation": "<img alt=\"UD 9: EVALUACIÓ N AUDITIVA. LÓGÓAUDIÓMETRRI A.\" src=\"./media/otorrino/images-41ee1f3872deb60e5ebbb0432ada0f98fe353361.jpg\"><br><i>discrepancia entre audiometria tonal y verbal</i>.<br>deja de oir llegado a ciertas frecuencias",
+    "cardType": "flashcard",
+    "difficulty": 2,
+    "tags": [
+      "MIR",
+      "ORL",
+      "usuario",
+      "texto"
+    ],
+    "source": "Mazo ANKI proporcionado por el usuario",
+    "sourceUrl": "",
+    "updatedAt": "2026-03-06",
+    "origin": "user-deck"
+  },
+  {
+    "id": "orl-036",
+    "subject": "Otorrinolaringología",
+    "topic": "Tumores ORL",
+    "question": "Neurinoma del acústico bilateral&nbsp;",
+    "answer": "Neurofibromatosis tipo 2.",
+    "explanation": "",
+    "cardType": "flashcard",
+    "difficulty": 2,
+    "tags": [
+      "MIR",
+      "ORL",
+      "usuario",
+      "texto"
+    ],
+    "source": "Mazo ANKI proporcionado por el usuario",
+    "sourceUrl": "",
+    "updatedAt": "2026-03-06",
+    "origin": "user-deck"
+  },
+  {
+    "id": "orl-037",
+    "subject": "Otorrinolaringología",
+    "topic": "Oído medio",
+    "question": "Niña&nbsp;con dolor de oidos con secrecion purulenta y maloliente, perforacion de membrana timpanica y perdida de audicion por transmision + otoscopia: escamas blanquecinas.",
+    "answer": "<b>Colesteatoma adquirido</b>",
+    "explanation": "Acumulacion anormal de celulas epiteliales escamosas queratinizadas dentro del oido medio, resultado de&nbsp;infeccion cronica de oido medio asociado a perforacion de la membrana timpanica.",
+    "cardType": "flashcard",
+    "difficulty": 2,
+    "tags": [
+      "MIR",
+      "ORL",
+      "usuario",
+      "texto"
+    ],
+    "source": "Mazo ANKI proporcionado por el usuario",
+    "sourceUrl": "",
+    "updatedAt": "2026-03-06",
+    "origin": "user-deck"
+  },
+  {
+    "id": "orl-038",
+    "subject": "Otorrinolaringología",
+    "topic": "Oído medio",
+    "question": "Otalgia pulsátil + secreción purulenta + signo del trago positivo (presion sobre el trago)",
+    "answer": "<b>Otitis externa difusa</b>.",
+    "explanation": "Pseudomonas&nbsp;&gt; S. aureus (otitis externa circunscrita)<br><br>signos de infección externa (signo de trago positivo, signos inflamatorios en conducto auditivo externo) + sintomas de otitis media aguda.",
+    "cardType": "flashcard",
+    "difficulty": 2,
+    "tags": [
+      "MIR",
+      "ORL",
+      "usuario",
+      "texto"
+    ],
+    "source": "Mazo ANKI proporcionado por el usuario",
+    "sourceUrl": "",
+    "updatedAt": "2026-03-06",
+    "origin": "user-deck"
+  },
+  {
+    "id": "orl-039",
+    "subject": "Otorrinolaringología",
+    "topic": "Oído medio",
+    "question": "Otitis externa + prurito",
+    "answer": "<b>Otitis externa fungica</b>&nbsp;(otomicosis)",
+    "explanation": "",
+    "cardType": "flashcard",
+    "difficulty": 2,
+    "tags": [
+      "MIR",
+      "ORL",
+      "usuario",
+      "texto"
+    ],
+    "source": "Mazo ANKI proporcionado por el usuario",
+    "sourceUrl": "",
+    "updatedAt": "2026-03-06",
+    "origin": "user-deck"
+  },
+  {
+    "id": "orl-040",
+    "subject": "Otorrinolaringología",
+    "topic": "Oído medio",
+    "question": "Timpanomegrama B&nbsp;(plana)&nbsp;y&nbsp;movilidad disminuida&nbsp;en otoscopia neumática",
+    "answer": "Otitis media secretora crónica",
+    "explanation": "",
+    "cardType": "flashcard",
+    "difficulty": 2,
+    "tags": [
+      "MIR",
+      "ORL",
+      "usuario",
+      "texto"
+    ],
+    "source": "Mazo ANKI proporcionado por el usuario",
+    "sourceUrl": "",
+    "updatedAt": "2026-03-06",
+    "origin": "user-deck"
+  },
+  {
+    "id": "orl-041",
+    "subject": "Otorrinolaringología",
+    "topic": "Oído medio",
+    "question": "Que hay que descartar si paciente tiene otitis media secretora crónica?",
+    "answer": "Cancer de cavum",
+    "explanation": "Hacer rinofibroscopia.",
+    "cardType": "flashcard",
+    "difficulty": 2,
+    "tags": [
+      "MIR",
+      "ORL",
+      "usuario",
+      "texto"
+    ],
+    "source": "Mazo ANKI proporcionado por el usuario",
+    "sourceUrl": "",
+    "updatedAt": "2026-03-06",
+    "origin": "user-deck"
+  },
+  {
+    "id": "orl-042",
+    "subject": "Otorrinolaringología",
+    "topic": "Oído medio",
+    "question": "Otorrea fetida +/- perforacion timpanica apical (margen superior)",
+    "answer": "Colesteatoma",
+    "explanation": "",
+    "cardType": "flashcard",
+    "difficulty": 2,
+    "tags": [
+      "MIR",
+      "ORL",
+      "usuario",
+      "texto"
+    ],
+    "source": "Mazo ANKI proporcionado por el usuario",
+    "sourceUrl": "",
+    "updatedAt": "2026-03-06",
+    "origin": "user-deck"
+  },
+  {
+    "id": "orl-043",
+    "subject": "Otorrinolaringología",
+    "topic": "Hipoacusia y audiología",
+    "question": "Paciente con hipoacusia de percepcion unilateral + acufeno e inestabilidad + imagen en \"cono de helado\"",
+    "answer": "<b>Neurinoma del acustico</b>&nbsp;(Swannoma vestibular)",
+    "explanation": "tumoracion mas frecuente del&nbsp;angulo ponto-cerebeloso",
+    "cardType": "flashcard",
+    "difficulty": 2,
+    "tags": [
+      "MIR",
+      "ORL",
+      "usuario",
+      "texto"
+    ],
+    "source": "Mazo ANKI proporcionado por el usuario",
+    "sourceUrl": "",
+    "updatedAt": "2026-03-06",
+    "origin": "user-deck"
+  },
+  {
+    "id": "orl-044",
+    "subject": "Otorrinolaringología",
+    "topic": "Otorrinolaringología general",
+    "question": "Paciente con pesadez en region malar izquierda, obstruccion nasal y rinorrea fetida izquierda que no mejora con antibiotico. TAC: ocupacion seno maxilar con calcificaciones.",
+    "answer": "<b>Micetoma paranasal</b>&nbsp;o&nbsp;<b>bola fúngica</b>.",
+    "explanation": "mas frecuente por&nbsp;<i>Aspergillus fumigatus</i>.",
+    "cardType": "flashcard",
+    "difficulty": 2,
+    "tags": [
+      "MIR",
+      "ORL",
+      "usuario",
+      "texto"
+    ],
+    "source": "Mazo ANKI proporcionado por el usuario",
+    "sourceUrl": "",
+    "updatedAt": "2026-03-06",
+    "origin": "user-deck"
+  },
+  {
+    "id": "orl-045",
+    "subject": "Otorrinolaringología",
+    "topic": "Oído medio",
+    "question": "Paciente de 60a con rinorrea sanguinolenta y taponamiento otico + adenopatias retroauriculares de consistencia dura y adherida",
+    "answer": "<b>Tumor de cavum</b>&nbsp;(<u>nasofaringeo</u>)",
+    "explanation": "sur de China, distribucion de sexos igualitaria.<br><br>IMPORTANTES las&nbsp;adenopatias retroauriculares&nbsp;y otitis media serosa unilateral.<br>Se asocia a&nbsp;<b>VEB y nitrosaminas</b>.<br><br>Tto: QT + RT<br><br><img src=\"./media/otorrino/paste-9a42a64497c48f4fbf1386cd739ff8c08373b94a.jpg\">",
+    "cardType": "flashcard",
+    "difficulty": 2,
+    "tags": [
+      "MIR",
+      "ORL",
+      "usuario",
+      "texto"
+    ],
+    "source": "Mazo ANKI proporcionado por el usuario",
+    "sourceUrl": "",
+    "updatedAt": "2026-03-06",
+    "origin": "user-deck"
+  },
+  {
+    "id": "orl-046",
+    "subject": "Otorrinolaringología",
+    "topic": "Laringe y vía aérea",
+    "question": "Paciente que le cuesta tragar, le duele el oido derecho y a la apertura bucal muestra cierta retraccion, como si tuviese una contractura",
+    "answer": "<b>Absceso periamigdalino</b>",
+    "explanation": "<img src=\"./media/otorrino/a325e54dc20ad44dc505fb04a36bfc0d.png\" width=\"153\"><br><b>Otalgia refleja</b>&nbsp;y&nbsp;<b>trismus<br></b><br>DxD:<br>-&nbsp;<b>Absceso parafaringeo</b>: fiebre, trismo, torticolitis,&nbsp;<u>masa cervical lateral dolorosa</u>, disfagia.<br>-&nbsp;<b>Absceso retrofaringeo</b>: &lt;5a, fiebre,&nbsp;<u>hiperextension del cuello</u>&nbsp;(torticolitis),&nbsp;<u>rigidez cervical</u>, disfagia, estridor, dificultad respiratoria.&nbsp;No hay trismo. Puede ocasionar crup o mediastinitis descendente.",
+    "cardType": "flashcard",
+    "difficulty": 2,
+    "tags": [
+      "MIR",
+      "ORL",
+      "usuario",
+      "texto"
+    ],
+    "source": "Mazo ANKI proporcionado por el usuario",
+    "sourceUrl": "",
+    "updatedAt": "2026-03-06",
+    "origin": "user-deck"
+  },
+  {
+    "id": "orl-047",
+    "subject": "Otorrinolaringología",
+    "topic": "Nariz y senos paranasales",
+    "question": "Que tumores ORL no requieren vaciamento ganglionar preventivo?",
+    "answer": "<ul><li>Glotis T1-2</li><li>Labio (no comisura) T1-2</li><li>Oral T1</li><li>Salivar bajo grado T1-2</li><li>Sinusal nasal</li></ul>",
+    "explanation": "\"GLOSS\"",
+    "cardType": "flashcard",
+    "difficulty": 2,
+    "tags": [
+      "MIR",
+      "ORL",
+      "usuario",
+      "texto"
+    ],
+    "source": "Mazo ANKI proporcionado por el usuario",
+    "sourceUrl": "",
+    "updatedAt": "2026-06-09",
+    "origin": "user-deck"
+  },
+  {
+    "id": "orl-048",
+    "subject": "Otorrinolaringología",
+    "topic": "Nervio facial",
+    "question": "Reflejo estapedial ausente en:",
+    "answer": "<ul><li>Otoesclerosis</li><li>Parálisis facial</li></ul>",
+    "explanation": "",
+    "cardType": "flashcard",
+    "difficulty": 2,
+    "tags": [
+      "MIR",
+      "ORL",
+      "usuario",
+      "texto"
+    ],
+    "source": "Mazo ANKI proporcionado por el usuario",
+    "sourceUrl": "",
+    "updatedAt": "2026-03-06",
+    "origin": "user-deck"
+  },
+  {
+    "id": "orl-049",
+    "subject": "Otorrinolaringología",
+    "topic": "Hipoacusia y audiología",
+    "question": "Rinne -, Weber hacia el lado enfermo, schwabach alargado.",
+    "answer": "<b>Hipoacusia de transmision</b>",
+    "explanation": "porque oido medio afectado y&nbsp;solo hay transmision osea",
+    "cardType": "flashcard",
+    "difficulty": 2,
+    "tags": [
+      "MIR",
+      "ORL",
+      "usuario",
+      "texto"
+    ],
+    "source": "Mazo ANKI proporcionado por el usuario",
+    "sourceUrl": "",
+    "updatedAt": "2026-03-06",
+    "origin": "user-deck"
+  },
+  {
+    "id": "orl-050",
+    "subject": "Otorrinolaringología",
+    "topic": "Otorrinolaringología general",
+    "question": "RN con cianosis + disnea que&nbsp;<b>MEJORA&nbsp;</b>con&nbsp;<b>LLANTO</b>",
+    "answer": "<b>Atresia de coanas</b>",
+    "explanation": "",
+    "cardType": "flashcard",
+    "difficulty": 2,
+    "tags": [
+      "MIR",
+      "ORL",
+      "usuario",
+      "texto"
+    ],
+    "source": "Mazo ANKI proporcionado por el usuario",
+    "sourceUrl": "",
+    "updatedAt": "2026-03-06",
+    "origin": "user-deck"
+  },
+  {
+    "id": "orl-051",
+    "subject": "Otorrinolaringología",
+    "topic": "Tumores ORL",
+    "question": "Tipo histológico del tumor benigno más frecuente en glándulas salivales",
+    "answer": "<b>Adenoma pleomorfo</b>",
+    "explanation": "mas frecuente en la&nbsp;<b>parotida</b>.&nbsp;<br><br>recidiva con frecuencia y puede malignizar un 5%<br>Tto: parotidectomia superficial (conservadora del nervio facial)",
+    "cardType": "flashcard",
+    "difficulty": 2,
+    "tags": [
+      "MIR",
+      "ORL",
+      "usuario",
+      "texto"
+    ],
+    "source": "Mazo ANKI proporcionado por el usuario",
+    "sourceUrl": "",
+    "updatedAt": "2026-03-06",
+    "origin": "user-deck"
+  },
+  {
+    "id": "orl-052",
+    "subject": "Otorrinolaringología",
+    "topic": "Otorrinolaringología general",
+    "question": "Tratamiento de elección en laringitis aguda",
+    "answer": "<b>DEXAMETASONA</b>&nbsp;oral",
+    "explanation": "",
+    "cardType": "flashcard",
+    "difficulty": 2,
+    "tags": [
+      "MIR",
+      "ORL",
+      "usuario",
+      "texto"
+    ],
+    "source": "Mazo ANKI proporcionado por el usuario",
+    "sourceUrl": "",
+    "updatedAt": "2026-03-06",
+    "origin": "user-deck"
+  },
+  {
+    "id": "orl-053",
+    "subject": "Otorrinolaringología",
+    "topic": "Nariz y senos paranasales",
+    "question": "Tratamiento de poliposis nasosinusal no respondedora a CORTICOIDES ni CENS",
+    "answer": "<b>DUPILUMAB&nbsp;</b>(anti IL-4/IL-13)",
+    "explanation": "",
+    "cardType": "flashcard",
+    "difficulty": 2,
+    "tags": [
+      "MIR",
+      "ORL",
+      "usuario",
+      "texto"
+    ],
+    "source": "Mazo ANKI proporcionado por el usuario",
+    "sourceUrl": "",
+    "updatedAt": "2026-03-06",
+    "origin": "user-deck"
+  },
+  {
+    "id": "orl-054",
+    "subject": "Otorrinolaringología",
+    "topic": "Otorrinolaringología general",
+    "question": "Indicaciones del dupilumab",
+    "answer": "<ul><li>Dermatitis atopica</li><li>Prurigo nodular</li><li>EPOC</li><li>Asma</li><li>Poliposis nasal</li><li>Esofagitis eosinofila</li></ul>",
+    "explanation": "anti IL-4/IL-13",
+    "cardType": "flashcard",
+    "difficulty": 2,
+    "tags": [
+      "MIR",
+      "ORL",
+      "usuario",
+      "texto"
+    ],
+    "source": "Mazo ANKI proporcionado por el usuario",
+    "sourceUrl": "",
+    "updatedAt": "2026-03-06",
+    "origin": "user-deck"
+  },
+  {
+    "id": "orl-055",
+    "subject": "Otorrinolaringología",
+    "topic": "Oído medio",
+    "question": "Tratamiento del absceso cerebral tras otitis externa",
+    "answer": "Betalactámico antipseudomónico (carbapenem o cefa de 4º)&nbsp;+ metronidazol",
+    "explanation": "<div>El tto habitual sería C3G+METRONIDAZOL (como tras sinusitis)<div></div></div><div><img src=\"./media/otorrino/66f8b3ae1fefc4d0769f39b3cb43f783.png\"></div>",
+    "cardType": "flashcard",
+    "difficulty": 2,
+    "tags": [
+      "MIR",
+      "ORL",
+      "usuario",
+      "texto"
+    ],
+    "source": "Mazo ANKI proporcionado por el usuario",
+    "sourceUrl": "",
+    "updatedAt": "2026-03-06",
+    "origin": "user-deck"
+  },
+  {
+    "id": "orl-056",
+    "subject": "Otorrinolaringología",
+    "topic": "Otorrinolaringología general",
+    "question": "Triada de Widal (triada ASA)",
+    "answer": "<ul><li>Asma</li><li>Poliposis nasal</li><li>Intolerancia a la aspirina y otros AINE</li></ul>",
+    "explanation": "Tratar con&nbsp;<b>Corticoides</b>.",
+    "cardType": "flashcard",
+    "difficulty": 2,
+    "tags": [
+      "MIR",
+      "ORL",
+      "usuario",
+      "texto"
+    ],
+    "source": "Mazo ANKI proporcionado por el usuario",
+    "sourceUrl": "",
+    "updatedAt": "2026-03-06",
+    "origin": "user-deck"
+  },
+  {
+    "id": "orl-057",
+    "subject": "Otorrinolaringología",
+    "topic": "Tumores ORL",
+    "question": "Cual es el nombre del tumor de la lamina cribosa de etmoides?",
+    "answer": "<b>Estesioneuroblastoma</b>&nbsp;(neuroblastoma olfatorio)",
+    "explanation": "Origina en celulas del nervio olfatorio.",
+    "cardType": "flashcard",
+    "difficulty": 2,
+    "tags": [
+      "MIR",
+      "ORL",
+      "usuario",
+      "texto"
+    ],
+    "source": "Mazo ANKI proporcionado por el usuario",
+    "sourceUrl": "",
+    "updatedAt": "2026-03-06",
+    "origin": "user-deck"
+  },
+  {
+    "id": "orl-058",
+    "subject": "Otorrinolaringología",
+    "topic": "Tumores ORL",
+    "question": "Tumor maligno mas frecuente de oido medio en el adulto",
+    "answer": "<b>Carcinoma epidermoide de oido medio</b>",
+    "explanation": "",
+    "cardType": "flashcard",
+    "difficulty": 2,
+    "tags": [
+      "MIR",
+      "ORL",
+      "usuario",
+      "texto"
+    ],
+    "source": "Mazo ANKI proporcionado por el usuario",
+    "sourceUrl": "",
+    "updatedAt": "2026-03-06",
+    "origin": "user-deck"
+  },
+  {
+    "id": "orl-059",
+    "subject": "Otorrinolaringología",
+    "topic": "Nariz y senos paranasales",
+    "question": "Tumor nasosinusal benigno más frecuente",
+    "answer": "<b>OSTEOMA</b>",
+    "explanation": "sobre todo en seno frontal",
+    "cardType": "flashcard",
+    "difficulty": 2,
+    "tags": [
+      "MIR",
+      "ORL",
+      "usuario",
+      "texto"
+    ],
+    "source": "Mazo ANKI proporcionado por el usuario",
+    "sourceUrl": "",
+    "updatedAt": "2026-03-06",
+    "origin": "user-deck"
+  },
+  {
+    "id": "orl-060",
+    "subject": "Otorrinolaringología",
+    "topic": "Laringe y vía aérea",
+    "question": "Tumores de cabeza y cuello no relacionados con el consumo de alcohol y tabaco",
+    "answer": "<b>Nasosinusales y de cavum&nbsp;</b>(nasofaringeo)",
+    "explanation": "los de laringe y orofaringe también se asocian al VPH.<br><br><img src=\"./media/otorrino/paste-9a42a64497c48f4fbf1386cd739ff8c08373b94a.jpg\">",
+    "cardType": "flashcard",
+    "difficulty": 2,
+    "tags": [
+      "MIR",
+      "ORL",
+      "usuario",
+      "texto"
+    ],
+    "source": "Mazo ANKI proporcionado por el usuario",
+    "sourceUrl": "",
+    "updatedAt": "2026-03-06",
+    "origin": "user-deck"
+  },
+  {
+    "id": "orl-061",
+    "subject": "Otorrinolaringología",
+    "topic": "Nariz y senos paranasales",
+    "question": "Varón adolescente con epistaxis de repetición",
+    "answer": "<b>Angiofibroma de cavum</b>",
+    "explanation": "Origen en&nbsp;<u>foramen esfenopalatino</u>&nbsp;e invasión por contigüidad a senos y base de cráneo.&nbsp;<b>Benigno&nbsp;</b>y muy vascular, pero&nbsp;<u>localmente agresivo y recidivante</u>.<br><br>La biopsia se evita por alto riesgo hemorrágico!<br>(se prioriza imagen TC/RMN)",
+    "cardType": "flashcard",
+    "difficulty": 2,
+    "tags": [
+      "MIR",
+      "ORL",
+      "usuario",
+      "texto"
+    ],
+    "source": "Mazo ANKI proporcionado por el usuario",
+    "sourceUrl": "",
+    "updatedAt": "2026-03-06",
+    "origin": "user-deck"
+  },
+  {
+    "id": "orl-062",
+    "subject": "Otorrinolaringología",
+    "topic": "Hipoacusia y audiología",
+    "question": "Varón de 48 años, sin antecedentes, refiere pérdida brusca de audición en oído derecho desde hace 24 horas, con acúfenos. Otoscopia normal. Audiometría: hipoacusia neurosensorial de 40 dB. Conducta más adecuada?",
+    "answer": "Iniciar tratamiento con corticoides y solicitar&nbsp;RMN con gadolino para descartar schwannoma.",
+    "explanation": "<b>Hipoacusia neurosensorial súbita</b>&nbsp;(pérdida&nbsp;<b>unilateral&nbsp;</b>≥30 dB en 3 frecuencias en &lt;72 h)<br><br>Recuperación espontánea en hasta 2/3 de casos (parcial o total).",
+    "cardType": "flashcard",
+    "difficulty": 2,
+    "tags": [
+      "MIR",
+      "ORL",
+      "usuario",
+      "texto"
+    ],
+    "source": "Mazo ANKI proporcionado por el usuario",
+    "sourceUrl": "",
+    "updatedAt": "2026-03-06",
+    "origin": "user-deck"
+  },
+  {
+    "id": "orl-063",
+    "subject": "Otorrinolaringología",
+    "topic": "Tumores ORL",
+    "question": "Varón fumador y bebedor crónico, presenta úlcera indurada en borde lateral de lengua que no cicatriza tras 1 mes. Adenopatía submandibular ipsilateral. ¿Diagnóstico y manejo inicial?",
+    "answer": "<ul><li><b>Carcinoma epidermoide&nbsp;</b>(mas frecuente)</li><li>Manejo: biopsia incisional.<br></li></ul>",
+    "explanation": "si en el MIR te dicen \"tumor en lengua\" casi siempre carcinoma epidermoide.",
+    "cardType": "flashcard",
+    "difficulty": 2,
+    "tags": [
+      "MIR",
+      "ORL",
+      "usuario",
+      "texto"
+    ],
+    "source": "Mazo ANKI proporcionado por el usuario",
+    "sourceUrl": "",
+    "updatedAt": "2026-03-06",
+    "origin": "user-deck"
+  },
+  {
+    "id": "orl-064",
+    "subject": "Otorrinolaringología",
+    "topic": "Vértigo y equilibrio",
+    "question": "Vertigo +&nbsp;Hipoacusia con otalgia muy intensa +&nbsp;Paralisis facial&nbsp;(asimetria, de inicio subito) +&nbsp;Vesiculas&nbsp;en pabellon auricular y pared posterior del conducto auditivo externo.",
+    "answer": "Sindrome de Ramsay-Hunt",
+    "explanation": "Paralisis facial periferica aguda por reactivacion de ZVZ en el&nbsp;ganglio geniculado del nervio facial&nbsp;(VII par) - herpes zoster otico.<br><br>Tto:&nbsp;<b>dentro de las primeras 72h</b>&nbsp;con aciclovir o valaciclovir + corticoides orales (prednisona)",
+    "cardType": "flashcard",
+    "difficulty": 2,
+    "tags": [
+      "MIR",
+      "ORL",
+      "usuario",
+      "texto"
+    ],
+    "source": "Mazo ANKI proporcionado por el usuario",
+    "sourceUrl": "",
+    "updatedAt": "2026-03-06",
+    "origin": "user-deck"
+  },
+  {
+    "id": "orl-065",
+    "subject": "Otorrinolaringología",
+    "topic": "Vértigo y equilibrio",
+    "question": "Vértigo durante días + normoacusia + antecedente proceso viral",
+    "answer": "<b>Neuritis vestibular</b>&nbsp;(afectacion virica de la 1° neurona vestibular)",
+    "explanation": "",
+    "cardType": "flashcard",
+    "difficulty": 2,
+    "tags": [
+      "MIR",
+      "ORL",
+      "usuario",
+      "texto"
+    ],
+    "source": "Mazo ANKI proporcionado por el usuario",
+    "sourceUrl": "",
+    "updatedAt": "2026-03-06",
+    "origin": "user-deck"
+  },
+  {
+    "id": "orl-066",
+    "subject": "Otorrinolaringología",
+    "topic": "Hipoacusia y audiología",
+    "question": "¿A qué frecuencias afecta la pérdida de audición en la presbiacusia?",
+    "answer": "<b>Frecuencias altas</b>.",
+    "explanation": "perdida progresiva de celulas ciliadas --&gt; hipoacusia neurosensorial bilateral simetrica.<br><br>Dx: reclutamiento + \"te escucho pero no te entiendo\"",
+    "cardType": "flashcard",
+    "difficulty": 2,
+    "tags": [
+      "MIR",
+      "ORL",
+      "usuario",
+      "texto"
+    ],
+    "source": "Mazo ANKI proporcionado por el usuario",
+    "sourceUrl": "",
+    "updatedAt": "2026-03-06",
+    "origin": "user-deck"
+  },
+  {
+    "id": "orl-067",
+    "subject": "Otorrinolaringología",
+    "topic": "Vértigo y equilibrio",
+    "question": "¿Con qué maniobras se diagnostica y trata el VPPB más frecuentemente?",
+    "answer": "<ul><li><b>Di</b>agnóstico:&nbsp;<b>Dix-Hallpike</b></li><li>Tratamiento:&nbsp;<b>Epley</b>&nbsp;</li></ul>",
+    "explanation": "",
+    "cardType": "flashcard",
+    "difficulty": 2,
+    "tags": [
+      "MIR",
+      "ORL",
+      "usuario",
+      "texto"
+    ],
+    "source": "Mazo ANKI proporcionado por el usuario",
+    "sourceUrl": "",
+    "updatedAt": "2026-03-06",
+    "origin": "user-deck"
+  },
+  {
+    "id": "orl-068",
+    "subject": "Otorrinolaringología",
+    "topic": "Hipoacusia y audiología",
+    "question": "Única hipoacusia neurosensorial que afecta más a las frecuencias graves",
+    "answer": "<b>La hipoacusia del síndrome de Ménière (fluctuante)</b>",
+    "explanation": "Normalmente:<br><b><font color=\"#ff0000\">T</font>RANSMISIVA =&nbsp;<font color=\"#ff0000\">G</font>RAVES<br><font color=\"#ff0000\">P</font>ERCEPTIVA =&nbsp;<font color=\"#ff0000\">A</font>GUDAS</b>",
+    "cardType": "flashcard",
+    "difficulty": 2,
+    "tags": [
+      "MIR",
+      "ORL",
+      "usuario",
+      "texto"
+    ],
+    "source": "Mazo ANKI proporcionado por el usuario",
+    "sourceUrl": "",
+    "updatedAt": "2026-03-06",
+    "origin": "user-deck"
+  },
+  {
+    "id": "orl-069",
+    "subject": "Otorrinolaringología",
+    "topic": "Faringe y cavidad oral",
+    "question": "Úlcera amigdalar + membrana grisácea + halitosis",
+    "answer": "<b>Angina fusoespirilar o de Vincent</b>",
+    "explanation": "",
+    "cardType": "flashcard",
+    "difficulty": 2,
+    "tags": [
+      "MIR",
+      "ORL",
+      "usuario",
+      "texto"
+    ],
+    "source": "Mazo ANKI proporcionado por el usuario",
+    "sourceUrl": "",
+    "updatedAt": "2026-03-06",
+    "origin": "user-deck"
+  },
+  {
+    "id": "orl-070",
+    "subject": "Otorrinolaringología",
+    "topic": "Faringe y cavidad oral",
+    "question": "¿Tumor maligno más frecuente de glándula submaxilar y glandulas menores?",
+    "answer": "<b>Carcinoma adenoide quístico</b>&nbsp;o&nbsp;<b>cilindroma</b>.",
+    "explanation": "Tumor maligno&nbsp;<u>poco frecuente</u>&nbsp;con&nbsp;<b>crecimiento lento</b>, pero&nbsp;muy infiltrante y con alta recidiva local.&nbsp;<br><br>Tumor salivar con&nbsp;<b>marcada invasión perineural&nbsp;</b>(dolor o parestesias): imagen en&nbsp;<b><u>encaje</u></b>&nbsp;(<b>patron cribriforme</b>) + invasion perineural.",
+    "cardType": "flashcard",
+    "difficulty": 2,
+    "tags": [
+      "MIR",
+      "ORL",
+      "usuario",
+      "texto"
+    ],
+    "source": "Mazo ANKI proporcionado por el usuario",
+    "sourceUrl": "",
+    "updatedAt": "2026-03-06",
+    "origin": "user-deck"
+  },
+  {
+    "id": "orl-071",
+    "subject": "Otorrinolaringología",
+    "topic": "Tumores ORL",
+    "question": "¿Tto del Cancer de cavum estadio I?",
+    "answer": "<b>Sólo RT</b>.",
+    "explanation": "II-III= RT y QT concurrentes.<br>NO se opera el cavum.&nbsp;",
+    "cardType": "flashcard",
+    "difficulty": 2,
+    "tags": [
+      "MIR",
+      "ORL",
+      "usuario",
+      "texto"
+    ],
+    "source": "Mazo ANKI proporcionado por el usuario",
+    "sourceUrl": "",
+    "updatedAt": "2026-03-06",
+    "origin": "user-deck"
+  },
+  {
+    "id": "orl-072",
+    "subject": "Otorrinolaringología",
+    "topic": "Nariz y senos paranasales",
+    "question": "¿Sinusitis más frecuente en &lt;1 año?",
+    "answer": "<b>Etmoidal</b>.",
+    "explanation": "&gt;1 año= Sinusitis maxilar.",
+    "cardType": "flashcard",
+    "difficulty": 2,
+    "tags": [
+      "MIR",
+      "ORL",
+      "usuario",
+      "texto"
+    ],
+    "source": "Mazo ANKI proporcionado por el usuario",
+    "sourceUrl": "",
+    "updatedAt": "2026-03-06",
+    "origin": "user-deck"
+  },
+  {
+    "id": "orl-073",
+    "subject": "Otorrinolaringología",
+    "topic": "Nervio facial",
+    "question": "¿Qué nervio inerva la parótida?",
+    "answer": "El&nbsp;<b>glosofaríngeo&nbsp;</b>(IX).",
+    "explanation": "El facial inerva las submaxilares y las sublinguales.",
+    "cardType": "flashcard",
+    "difficulty": 2,
+    "tags": [
+      "MIR",
+      "ORL",
+      "usuario",
+      "texto"
+    ],
+    "source": "Mazo ANKI proporcionado por el usuario",
+    "sourceUrl": "",
+    "updatedAt": "2026-03-06",
+    "origin": "user-deck"
+  },
+  {
+    "id": "orl-074",
+    "subject": "Otorrinolaringología",
+    "topic": "Hipoacusia y audiología",
+    "question": "¿Qué fractura del temporal da hipoacusia transmisiva?",
+    "answer": "<span style=\"color: rgb(255, 255, 255);\">La longitudinal</span>",
+    "explanation": "",
+    "cardType": "flashcard",
+    "difficulty": 2,
+    "tags": [
+      "MIR",
+      "ORL",
+      "usuario",
+      "texto"
+    ],
+    "source": "Mazo ANKI proporcionado por el usuario",
+    "sourceUrl": "",
+    "updatedAt": "2026-06-09",
+    "origin": "user-deck"
+  },
+  {
+    "id": "orl-075",
+    "subject": "Otorrinolaringología",
+    "topic": "Otorrinolaringología general",
+    "question": "¿Qué drena en el meato inferior? ¿Y el superior?",
+    "answer": "<ul><li>Conducto nasolagrimal</li><li>Seno esfenoidal</li></ul>",
+    "explanation": "",
+    "cardType": "flashcard",
+    "difficulty": 2,
+    "tags": [
+      "MIR",
+      "ORL",
+      "usuario",
+      "texto"
+    ],
+    "source": "Mazo ANKI proporcionado por el usuario",
+    "sourceUrl": "",
+    "updatedAt": "2026-03-06",
+    "origin": "user-deck"
+  },
+  {
+    "id": "orl-076",
+    "subject": "Otorrinolaringología",
+    "topic": "Laringe y vía aérea",
+    "question": "¿Qué consecuencias tiene la lesión del nervio laríngeo superior?",
+    "answer": "provoca&nbsp;disfonía con pérdida de tonos agudos&nbsp;(tipico,&nbsp;lesión rama externa&nbsp;que inerva el cricotiroideo o tensor de las cuerdas vocales) y&nbsp;disminución de la sensibilidad supraglótica con&nbsp;riesgo de aspiración&nbsp;(lesión rama interna&nbsp;que inerva por encima de las cuerdas vocales, epiglotis y base de lengua).",
+    "explanation": "Lesión más habitual en&nbsp;<strong>tiroidectomía</strong>.<br><strong>No hay parálisis cordal visible</strong>&nbsp;en la laringoscopia, a diferencia del nervio laríngeo recurrente.",
+    "cardType": "flashcard",
+    "difficulty": 2,
+    "tags": [
+      "MIR",
+      "ORL",
+      "usuario",
+      "texto"
+    ],
+    "source": "Mazo ANKI proporcionado por el usuario",
+    "sourceUrl": "",
+    "updatedAt": "2026-03-06",
+    "origin": "user-deck"
+  },
+  {
+    "id": "orl-077",
+    "subject": "Otorrinolaringología",
+    "topic": "Oído medio",
+    "question": "¿En qué consiste el síndrome de Vernet?",
+    "answer": "<b>Afectación de los pares craneales IX, X y XI&nbsp;</b>por&nbsp;afectación del&nbsp;<b>foramen yugular&nbsp;</b>(agujero rasgado posterior) del&nbsp;<b>angulo pontocerebeloso</b>",
+    "explanation": "\"<i>se llama Vernet y no afecta ningún par que lleve V en el nombre</i>\"<br><br><b>Causas</b>: Paraganglioma (<b>GLOMUS YUGULAR</b>), Otitis externa maligna, Trombosis yugular, carcinoma epidermoide de oido medio, neurinoma del acustico",
+    "cardType": "flashcard",
+    "difficulty": 2,
+    "tags": [
+      "MIR",
+      "ORL",
+      "usuario",
+      "texto"
+    ],
+    "source": "Mazo ANKI proporcionado por el usuario",
+    "sourceUrl": "",
+    "updatedAt": "2026-06-09",
+    "origin": "user-deck"
+  },
+  {
+    "id": "orl-078",
+    "subject": "Otorrinolaringología",
+    "topic": "Otorrinolaringología general",
+    "question": "¿En qué consiste el síndrome de Gradenigo?",
+    "answer": "<b>Paresia del VI par (diplopia) + dolor retroocular ipsilateral (V par) + otorrea</b>",
+    "explanation": "Se relaciona con lesiones de la punta del peñasco (<b>petrositis</b>)",
+    "cardType": "flashcard",
+    "difficulty": 2,
+    "tags": [
+      "MIR",
+      "ORL",
+      "usuario",
+      "texto"
+    ],
+    "source": "Mazo ANKI proporcionado por el usuario",
+    "sourceUrl": "",
+    "updatedAt": "2026-03-06",
+    "origin": "user-deck"
+  },
+  {
+    "id": "orl-079",
+    "subject": "Otorrinolaringología",
+    "topic": "Otorrinolaringología general",
+    "question": "¿De qué patología es típico el escotoma o cuña de Carhart?",
+    "answer": "Otoesclerosis.",
+    "explanation": "Caída de la vía osea a 2000 Hz.<br><img alt=\"Otosclerosis | GAES ORL GUIDE\" src=\"./media/otorrino/4964230000000.jpeg\">",
+    "cardType": "flashcard",
+    "difficulty": 2,
+    "tags": [
+      "MIR",
+      "ORL",
+      "usuario",
+      "texto"
+    ],
+    "source": "Mazo ANKI proporcionado por el usuario",
+    "sourceUrl": "",
+    "updatedAt": "2026-03-06",
+    "origin": "user-deck"
+  },
+  {
+    "id": "orl-080",
+    "subject": "Otorrinolaringología",
+    "topic": "Vértigo y equilibrio",
+    "question": "¿Cómo es el HINTS en un vértigo periférico?",
+    "answer": "<ul><li><u><b>H</b>ead&nbsp;<b>I</b>mpulse</u>&nbsp;(maniobra oculocefalica): Patológico hacia el&nbsp;<b>lado afecto</b></li><li><u><b>N</b>istagmo</u>: Horizonto-rotatorio; fase&nbsp;<b>LENTA</b>&nbsp;al lado&nbsp;<b>afecto</b></li><li><u><b>T</b>est de&nbsp;<b>S</b>kew</u>&nbsp;(desviación vertical de la mirada): Normal</li></ul>",
+    "explanation": "",
+    "cardType": "flashcard",
+    "difficulty": 2,
+    "tags": [
+      "MIR",
+      "ORL",
+      "usuario",
+      "texto"
+    ],
+    "source": "Mazo ANKI proporcionado por el usuario",
+    "sourceUrl": "",
+    "updatedAt": "2026-03-06",
+    "origin": "user-deck"
+  },
+  {
+    "id": "orl-081",
+    "subject": "Otorrinolaringología",
+    "topic": "Tumores ORL",
+    "question": "¿Cómo diferenciamos un adenoma pleomorfo de un cistoadenolinfoma o tumor de Warthin?&nbsp;Ambos en la parótida.",
+    "answer": "<ul><li><b>Warthin&nbsp;</b>(<u>cistoadenolinfoma</u>&nbsp;papilar, benigno) es un nódulo caliente,&nbsp;<b>capta en la gammagrafía</b>.</li></ul><ul><li>El adenoma pleomorfo no capta en gammagrafía.</li></ul>",
+    "explanation": "",
+    "cardType": "flashcard",
+    "difficulty": 2,
+    "tags": [
+      "MIR",
+      "ORL",
+      "usuario",
+      "texto"
+    ],
+    "source": "Mazo ANKI proporcionado por el usuario",
+    "sourceUrl": "",
+    "updatedAt": "2026-03-06",
+    "origin": "user-deck"
+  },
+  {
+    "id": "orl-082",
+    "subject": "Otorrinolaringología",
+    "topic": "Oído medio",
+    "question": "¿Cuál es la etiología bacteriana más frecuente de la otitis media aguda (OMA) en niños?",
+    "answer": "<b>Streptococcus pneumoniae</b>",
+    "explanation": "",
+    "cardType": "flashcard",
+    "difficulty": 2,
+    "tags": [
+      "MIR",
+      "ORL",
+      "usuario",
+      "texto"
+    ],
+    "source": "Mazo ANKI proporcionado por el usuario",
+    "sourceUrl": "",
+    "updatedAt": "2026-03-06",
+    "origin": "user-deck"
+  },
+  {
+    "id": "orl-083",
+    "subject": "Otorrinolaringología",
+    "topic": "Laringe y vía aérea",
+    "question": "¿Cuál es el único músculo laríngeo encargado de la abduccion de las cuerdas vocales?",
+    "answer": "Cricoaritenoideo posterior&nbsp;(nervio laringeo superior)",
+    "explanation": "",
+    "cardType": "flashcard",
+    "difficulty": 2,
+    "tags": [
+      "MIR",
+      "ORL",
+      "usuario",
+      "texto"
+    ],
+    "source": "Mazo ANKI proporcionado por el usuario",
+    "sourceUrl": "",
+    "updatedAt": "2026-03-06",
+    "origin": "user-deck"
+  },
+  {
+    "id": "orl-084",
+    "subject": "Otorrinolaringología",
+    "topic": "Tumores ORL",
+    "question": "¿Cuál es el tumor odontogénico más frecuente?",
+    "answer": "<b>Odontoma</b>",
+    "explanation": "Es un&nbsp;<b>hamartoma p</b>or&nbsp;<b>retención de diente</b>&nbsp;decidual<br><img src=\"./media/otorrino/odonto.png\">",
+    "cardType": "flashcard",
+    "difficulty": 2,
+    "tags": [
+      "MIR",
+      "ORL",
+      "usuario",
+      "texto"
+    ],
+    "source": "Mazo ANKI proporcionado por el usuario",
+    "sourceUrl": "",
+    "updatedAt": "2026-06-09",
+    "origin": "user-deck"
+  },
+  {
+    "id": "orl-085",
+    "subject": "Otorrinolaringología",
+    "topic": "Tumores ORL",
+    "question": "¿Cuál es el tumor maligno de parótida más frecuente?",
+    "answer": "<b>Carcinoma mucoepidermoide</b>.",
+    "explanation": "",
+    "cardType": "flashcard",
+    "difficulty": 2,
+    "tags": [
+      "MIR",
+      "ORL",
+      "usuario",
+      "texto"
+    ],
+    "source": "Mazo ANKI proporcionado por el usuario",
+    "sourceUrl": "",
+    "updatedAt": "2026-03-06",
+    "origin": "user-deck"
+  },
+  {
+    "id": "orl-086",
+    "subject": "Otorrinolaringología",
+    "topic": "Vértigo y equilibrio",
+    "question": "El VPPB más habitual que canal afecta?",
+    "answer": "Canal posterior",
+    "explanation": "<img src=\"./media/otorrino/04fa13328fba4471b3add2399d1cf01c.png\"><br><img src=\"./media/otorrino/VPPB-6048b69d1c8847e9fc312a8e9ae6780896927cdc.png\">",
+    "cardType": "flashcard",
+    "difficulty": 2,
+    "tags": [
+      "MIR",
+      "ORL",
+      "usuario",
+      "texto"
+    ],
+    "source": "Mazo ANKI proporcionado por el usuario",
+    "sourceUrl": "",
+    "updatedAt": "2026-03-06",
+    "origin": "user-deck"
+  },
+  {
+    "id": "orl-087",
+    "subject": "Otorrinolaringología",
+    "topic": "Otorrinolaringología general",
+    "question": "El tinnitus es característico de la intoxicación por...",
+    "answer": "<b>Salicilatos</b>",
+    "explanation": "<ul><li><u>1ª fase</u>&nbsp;-&gt;&nbsp;<b>hiperexcitabilidad del SNC&nbsp;</b>con hiperventilacion +&nbsp;alcalosis respiratoria</li><li><u>2ª fase</u>&nbsp;-&gt; coma, depresion respiratoria +&nbsp;<b>toxicidad mitocondrial</b>&nbsp;+&nbsp;acidosis metabólica</li></ul><div>Es eficaz la&nbsp;<u>alcalinizacion de la orina</u>&nbsp;con&nbsp;<b>bicarbonato sodico IV</b>.<br></div>",
+    "cardType": "flashcard",
+    "difficulty": 2,
+    "tags": [
+      "MIR",
+      "ORL",
+      "usuario",
+      "texto"
+    ],
+    "source": "Mazo ANKI proporcionado por el usuario",
+    "sourceUrl": "",
+    "updatedAt": "2026-03-08",
+    "origin": "user-deck"
+  },
+  {
+    "id": "orl-088",
+    "subject": "Otorrinolaringología",
+    "topic": "Otorrinolaringología general",
+    "question": "Causas de equimosis periorbitaria bilateral, conocida como “ojos de mapache”",
+    "answer": "<ul><li>Fractura de base craneo</li><li>Amiloidosis AL (primaria)</li><li>Neuroblastoma metastasico (en pediatria)</li></ul>",
+    "explanation": "",
+    "cardType": "flashcard",
+    "difficulty": 2,
+    "tags": [
+      "MIR",
+      "ORL",
+      "usuario",
+      "texto"
+    ],
+    "source": "Mazo ANKI proporcionado por el usuario",
+    "sourceUrl": "",
+    "updatedAt": "2026-03-08",
+    "origin": "user-deck"
+  },
+  {
+    "id": "orl-089",
+    "subject": "Otorrinolaringología",
+    "topic": "Faringe y cavidad oral",
+    "question": "<img alt=\"Difteria - Síntomas y causas - Mayo Clinic\" src=\"./media/otorrino/diphtheria.jpg\"><br>Peque con faringitis + pseudomembranas grises.<br>Como se llama este hallazgo? Diagnostico más probable?",
+    "answer": "<ul><li>Adenopatías cervicales grandes&nbsp;→ “cuello de toro”<br></li><li>Difteria</li></ul>",
+    "explanation": "",
+    "cardType": "image",
+    "difficulty": 2,
+    "tags": [
+      "MIR",
+      "ORL",
+      "usuario",
+      "imagen"
+    ],
+    "source": "Mazo ANKI proporcionado por el usuario",
+    "sourceUrl": "",
+    "updatedAt": "2026-06-09",
+    "origin": "user-deck"
+  },
+  {
+    "id": "orl-090",
+    "subject": "Otorrinolaringología",
+    "topic": "Otorrinolaringología general",
+    "question": "<img alt=\"Corynebacterium diphtheriae - Wikipedia, la enciclopedia libre\" src=\"./media/otorrino/Corynebacterium_diphtheriae_Gram_stain.jpg\"><br>Que patogeno es?",
+    "answer": "<b>Corynebacterium diphtheriae</b>",
+    "explanation": "ba­cilo gram­po­si­tivo con&nbsp;<b>dis­tri­bución en «letras chinas»</b>&nbsp;",
+    "cardType": "image",
+    "difficulty": 2,
+    "tags": [
+      "MIR",
+      "ORL",
+      "usuario",
+      "imagen"
+    ],
+    "source": "Mazo ANKI proporcionado por el usuario",
+    "sourceUrl": "",
+    "updatedAt": "2026-06-09",
+    "origin": "user-deck"
+  },
+  {
+    "id": "orl-091",
+    "subject": "Otorrinolaringología",
+    "topic": "Nervio facial",
+    "question": "<img src=\"./media/otorrino/ZOSTER OTICO (RAMSAY HUNT).png\"><br>Que ves? Diagnostico?",
+    "answer": "<ul><li><b>Vesiculas&nbsp;</b>en pabellón auricular y pared posterior del conducto auditivo externo.</li><li>Sindrome de Ramsay-Hunt</li></ul>",
+    "explanation": "",
+    "cardType": "image",
+    "difficulty": 2,
+    "tags": [
+      "MIR",
+      "ORL",
+      "usuario",
+      "imagen"
+    ],
+    "source": "Mazo ANKI proporcionado por el usuario",
+    "sourceUrl": "",
+    "updatedAt": "2026-06-09",
+    "origin": "user-deck"
+  },
+  {
+    "id": "orl-092",
+    "subject": "Otorrinolaringología",
+    "topic": "Tumores ORL",
+    "question": "<img alt=\"NEURINOMA ACÚSTICO – Base de Cráneo Barcelona\" src=\"./media/otorrino/neurinoma-3.jpg\"><img alt=\"NEURINOMA ACÚSTICO – Base de Cráneo Barcelona\" src=\"./media/otorrino/images-84c3c1a0da415bc1402692e979aa0fd90771fea7.jpg\"><br>Diagnostico?",
+    "answer": "Neurinoma del acustico (Swannoma vestibular)",
+    "explanation": "",
+    "cardType": "image",
+    "difficulty": 2,
+    "tags": [
+      "MIR",
+      "ORL",
+      "usuario",
+      "imagen"
+    ],
+    "source": "Mazo ANKI proporcionado por el usuario",
+    "sourceUrl": "",
+    "updatedAt": "2026-06-09",
+    "origin": "user-deck"
+  },
+  {
+    "id": "orl-093",
+    "subject": "Otorrinolaringología",
+    "topic": "Otorrinolaringología general",
+    "question": "<img src=\"./media/otorrino/img1481380621016505361.jpg\"><br>Como se llama este signo en otoesclerosis?",
+    "answer": "Signo de Schwartze (mancha rosa flamenco)",
+    "explanation": "enrojecimiento del promontorio coclear",
+    "cardType": "image",
+    "difficulty": 2,
+    "tags": [
+      "MIR",
+      "ORL",
+      "usuario",
+      "imagen"
+    ],
+    "source": "Mazo ANKI proporcionado por el usuario",
+    "sourceUrl": "",
+    "updatedAt": "2026-06-09",
+    "origin": "user-deck"
+  },
+  {
+    "id": "orl-094",
+    "subject": "Otorrinolaringología",
+    "topic": "Otorrinolaringología general",
+    "question": "<img src=\"./media/otorrino/fb.png\"><br>Diagnostico?",
+    "answer": "Micetoma paranasal (bola fungica)",
+    "explanation": "Así es la imagen típica: ocupación de&nbsp;<b>un único seno</b>&nbsp;(<b>maxilar&nbsp;</b>&gt; esfenoidal) de densidad&nbsp;<b>blanda&nbsp;</b>que puede contener&nbsp;<b>calcificaciones</b>.",
+    "cardType": "image",
+    "difficulty": 2,
+    "tags": [
+      "MIR",
+      "ORL",
+      "usuario",
+      "imagen"
+    ],
+    "source": "Mazo ANKI proporcionado por el usuario",
+    "sourceUrl": "",
+    "updatedAt": "2026-06-09",
+    "origin": "user-deck"
+  },
+  {
+    "id": "orl-095",
+    "subject": "Otorrinolaringología",
+    "topic": "Otorrinolaringología general",
+    "question": "<img src=\"./media/otorrino/Captura de pantalla 2021-09-07 a las 10.15.21.png\"><br>Que es?",
+    "answer": "Gránulo de azufre típico de la actinomicosis",
+    "explanation": "(no patognomónico)",
+    "cardType": "image",
+    "difficulty": 2,
+    "tags": [
+      "MIR",
+      "ORL",
+      "usuario",
+      "imagen"
+    ],
+    "source": "Mazo ANKI proporcionado por el usuario",
+    "sourceUrl": "",
+    "updatedAt": "2026-06-09",
+    "origin": "user-deck"
+  },
+  {
+    "id": "orl-096",
+    "subject": "Otorrinolaringología",
+    "topic": "Otorrinolaringología general",
+    "question": "<img src=\"./media/otorrino/Captura de pantalla 2021-12-23 a las 9.08.32.png\"><br>Diagnostico?",
+    "answer": "Schwannoma",
+    "explanation": "",
+    "cardType": "image",
+    "difficulty": 2,
+    "tags": [
+      "MIR",
+      "ORL",
+      "usuario",
+      "imagen"
+    ],
+    "source": "Mazo ANKI proporcionado por el usuario",
+    "sourceUrl": "",
+    "updatedAt": "2026-06-09",
+    "origin": "user-deck"
+  }
+]

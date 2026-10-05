@@ -1,0 +1,1082 @@
+[
+  {
+    "id": "q-001",
+    "subjectId": "cardio",
+    "subject": "Cardiología",
+    "topic": "Síndrome coronario agudo",
+    "question": "Paciente con dolor torácico y elevación persistente del ST en derivaciones contiguas. ¿Cuál es la estrategia de reperfusión preferida cuando puede realizarse a tiempo?",
+    "options": [
+      "Fibrinólisis siempre",
+      "Intervención coronaria percutánea primaria",
+      "Observación 24 horas",
+      "Prueba de esfuerzo inmediata"
+    ],
+    "correctIndex": 1,
+    "explanation": "En un IAM con elevación del ST, la angioplastia primaria es la estrategia preferida cuando está disponible dentro de los tiempos recomendados.",
+    "difficulty": 2,
+    "updatedAt": "2026-10-04",
+    "source": "Banco demostrativo de conceptos MIR de alta frecuencia. Validar siempre contra guías vigentes antes de uso clínico.",
+    "sourceUrl": "",
+    "origin": "starter"
+  },
+  {
+    "id": "q-002",
+    "subjectId": "cardio",
+    "subject": "Cardiología",
+    "topic": "Arritmias y ECG",
+    "question": "¿Qué alteración electrocardiográfica define un bloqueo auriculoventricular de primer grado?",
+    "options": [
+      "QRS > 120 ms",
+      "PR > 200 ms",
+      "QTc < 350 ms",
+      "Elevación difusa del ST"
+    ],
+    "correctIndex": 1,
+    "explanation": "El BAV de primer grado consiste en prolongación del intervalo PR por encima de 200 ms con conducción 1:1.",
+    "difficulty": 2,
+    "updatedAt": "2026-10-04",
+    "source": "Banco demostrativo de conceptos MIR de alta frecuencia. Validar siempre contra guías vigentes antes de uso clínico.",
+    "sourceUrl": "",
+    "origin": "starter"
+  },
+  {
+    "id": "q-003",
+    "subjectId": "neumo",
+    "subject": "Neumología",
+    "topic": "EPOC",
+    "question": "¿Qué prueba confirma la presencia de obstrucción persistente al flujo aéreo en EPOC?",
+    "options": [
+      "Radiografía de tórax",
+      "Gasometría arterial",
+      "Espirometría posbroncodilatador",
+      "Pletismografía aislada"
+    ],
+    "correctIndex": 2,
+    "explanation": "El diagnóstico fisiológico de EPOC requiere demostrar obstrucción persistente mediante espirometría.",
+    "difficulty": 3,
+    "updatedAt": "2026-10-04",
+    "source": "Banco demostrativo de conceptos MIR de alta frecuencia. Validar siempre contra guías vigentes antes de uso clínico.",
+    "sourceUrl": "",
+    "origin": "starter"
+  },
+  {
+    "id": "q-004",
+    "subjectId": "neumo",
+    "subject": "Neumología",
+    "topic": "Tromboembolismo pulmonar",
+    "question": "En un paciente hemodinámicamente estable con sospecha de TEP, ¿qué herramienta se usa primero para estimar la probabilidad clínica?",
+    "options": [
+      "Troponina aislada",
+      "Una regla de probabilidad clínica validada",
+      "Ecocardiograma transesofágico",
+      "Broncoscopia"
+    ],
+    "correctIndex": 1,
+    "explanation": "La secuencia diagnóstica parte de la probabilidad clínica pretest y después integra dímero D e imagen según el riesgo.",
+    "difficulty": 2,
+    "updatedAt": "2026-10-04",
+    "source": "Banco demostrativo de conceptos MIR de alta frecuencia. Validar siempre contra guías vigentes antes de uso clínico.",
+    "sourceUrl": "",
+    "origin": "starter"
+  },
+  {
+    "id": "q-005",
+    "subjectId": "digestivo",
+    "subject": "Aparato Digestivo",
+    "topic": "Hemorragia digestiva",
+    "question": "¿Cuál es la causa más frecuente de hemorragia digestiva alta no varicosa?",
+    "options": [
+      "Diverticulosis",
+      "Úlcera péptica",
+      "Hemorroides",
+      "Colitis isquémica"
+    ],
+    "correctIndex": 1,
+    "explanation": "La úlcera péptica continúa siendo una causa principal de hemorragia digestiva alta no varicosa.",
+    "difficulty": 2,
+    "updatedAt": "2026-10-04",
+    "source": "Banco demostrativo de conceptos MIR de alta frecuencia. Validar siempre contra guías vigentes antes de uso clínico.",
+    "sourceUrl": "",
+    "origin": "starter"
+  },
+  {
+    "id": "q-006",
+    "subjectId": "digestivo",
+    "subject": "Aparato Digestivo",
+    "topic": "Cirrosis y complicaciones",
+    "question": "¿Qué hallazgo define ascitis grado 3?",
+    "options": [
+      "Solo detectable por ecografía",
+      "Leve y detectable al examen",
+      "Ascitis a tensión con marcada distensión abdominal",
+      "Ascitis con fiebre obligatoria"
+    ],
+    "correctIndex": 2,
+    "explanation": "La clasificación clínica distingue ascitis leve, moderada y grande/a tensión.",
+    "difficulty": 3,
+    "updatedAt": "2026-10-04",
+    "source": "Banco demostrativo de conceptos MIR de alta frecuencia. Validar siempre contra guías vigentes antes de uso clínico.",
+    "sourceUrl": "",
+    "origin": "starter"
+  },
+  {
+    "id": "q-007",
+    "subjectId": "neuro",
+    "subject": "Neurología",
+    "topic": "Ictus",
+    "question": "¿Cuál es la prueba inicial de imagen habitual ante sospecha de ictus agudo?",
+    "options": [
+      "RM con gadolinio obligatoria",
+      "TC craneal sin contraste",
+      "PET cerebral",
+      "Radiografía de cráneo"
+    ],
+    "correctIndex": 1,
+    "explanation": "La TC sin contraste permite descartar rápidamente hemorragia y orientar el manejo agudo.",
+    "difficulty": 2,
+    "updatedAt": "2026-10-04",
+    "source": "Banco demostrativo de conceptos MIR de alta frecuencia. Validar siempre contra guías vigentes antes de uso clínico.",
+    "sourceUrl": "",
+    "origin": "starter"
+  },
+  {
+    "id": "q-008",
+    "subjectId": "neuro",
+    "subject": "Neurología",
+    "topic": "Epilepsia",
+    "question": "Una crisis focal puede evolucionar a:",
+    "options": [
+      "Solo ausencia típica",
+      "Crisis bilateral tónico-clónica",
+      "Narcolepsia",
+      "Síncope vasovagal"
+    ],
+    "correctIndex": 1,
+    "explanation": "La terminología actual reconoce las crisis focales que progresan a actividad bilateral tónico-clónica.",
+    "difficulty": 2,
+    "updatedAt": "2026-10-04",
+    "source": "Banco demostrativo de conceptos MIR de alta frecuencia. Validar siempre contra guías vigentes antes de uso clínico.",
+    "sourceUrl": "",
+    "origin": "starter"
+  },
+  {
+    "id": "q-009",
+    "subjectId": "endo",
+    "subject": "Endocrinología",
+    "topic": "Diabetes mellitus",
+    "question": "¿Qué parámetro refleja aproximadamente la glucemia media de los 2–3 meses previos?",
+    "options": [
+      "Glucemia capilar aislada",
+      "HbA1c",
+      "Cetonemia",
+      "Péptido C"
+    ],
+    "correctIndex": 1,
+    "explanation": "La HbA1c integra la exposición glucémica de las semanas previas, con mayor peso de las más recientes.",
+    "difficulty": 3,
+    "updatedAt": "2026-10-04",
+    "source": "Banco demostrativo de conceptos MIR de alta frecuencia. Validar siempre contra guías vigentes antes de uso clínico.",
+    "sourceUrl": "",
+    "origin": "starter"
+  },
+  {
+    "id": "q-010",
+    "subjectId": "endo",
+    "subject": "Endocrinología",
+    "topic": "Tiroides",
+    "question": "En hipotiroidismo primario manifiesto, el patrón típico es:",
+    "options": [
+      "TSH baja y T4 libre alta",
+      "TSH elevada y T4 libre baja",
+      "TSH normal y T3 alta",
+      "TSH baja y T4 libre baja siempre"
+    ],
+    "correctIndex": 1,
+    "explanation": "La pérdida de retroalimentación hormonal produce elevación de TSH cuando el defecto es primariamente tiroideo.",
+    "difficulty": 2,
+    "updatedAt": "2026-10-04",
+    "source": "Banco demostrativo de conceptos MIR de alta frecuencia. Validar siempre contra guías vigentes antes de uso clínico.",
+    "sourceUrl": "",
+    "origin": "starter"
+  },
+  {
+    "id": "q-011",
+    "subjectId": "nefro",
+    "subject": "Nefrología",
+    "topic": "Alteraciones ácido-base",
+    "question": "¿Qué trastorno ácido-base produce típicamente la pérdida gastrointestinal intensa de bicarbonato por diarrea?",
+    "options": [
+      "Alcalosis metabólica",
+      "Acidosis respiratoria",
+      "Acidosis metabólica con anión gap normal",
+      "Alcalosis respiratoria"
+    ],
+    "correctIndex": 2,
+    "explanation": "La pérdida de bicarbonato genera una acidosis metabólica hiperclorémica con anión gap normal.",
+    "difficulty": 2,
+    "updatedAt": "2026-10-04",
+    "source": "Banco demostrativo de conceptos MIR de alta frecuencia. Validar siempre contra guías vigentes antes de uso clínico.",
+    "sourceUrl": "",
+    "origin": "starter"
+  },
+  {
+    "id": "q-012",
+    "subjectId": "nefro",
+    "subject": "Nefrología",
+    "topic": "Síndrome nefrótico",
+    "question": "¿Qué hallazgo caracteriza al síndrome nefrótico?",
+    "options": [
+      "Hematuria macroscópica obligatoria",
+      "Proteinuria intensa",
+      "Leucocituria estéril obligatoria",
+      "Hipercalcemia"
+    ],
+    "correctIndex": 1,
+    "explanation": "El síndrome nefrótico se caracteriza por proteinuria marcada, hipoalbuminemia y edema, con frecuencia dislipidemia.",
+    "difficulty": 3,
+    "updatedAt": "2026-10-04",
+    "source": "Banco demostrativo de conceptos MIR de alta frecuencia. Validar siempre contra guías vigentes antes de uso clínico.",
+    "sourceUrl": "",
+    "origin": "starter"
+  },
+  {
+    "id": "q-013",
+    "subjectId": "infecciosas",
+    "subject": "Enfermedades Infecciosas",
+    "topic": "Sepsis",
+    "question": "La sepsis se define actualmente como:",
+    "options": [
+      "Bacteriemia con fiebre",
+      "Cualquier infección con taquicardia",
+      "Disfunción orgánica potencialmente mortal causada por una respuesta desregulada a la infección",
+      "Shock exclusivamente"
+    ],
+    "correctIndex": 2,
+    "explanation": "La definición moderna enfatiza la disfunción orgánica secundaria a una respuesta desregulada del huésped.",
+    "difficulty": 2,
+    "updatedAt": "2026-10-04",
+    "source": "Banco demostrativo de conceptos MIR de alta frecuencia. Validar siempre contra guías vigentes antes de uso clínico.",
+    "sourceUrl": "",
+    "origin": "starter"
+  },
+  {
+    "id": "q-014",
+    "subjectId": "infecciosas",
+    "subject": "Enfermedades Infecciosas",
+    "topic": "Antibioterapia",
+    "question": "¿Qué principio reduce presión selectiva y toxicidad en antibioterapia?",
+    "options": [
+      "Mantener siempre cobertura máxima",
+      "Desescalar según cultivos y evolución clínica",
+      "Duplicar antibióticos del mismo espectro",
+      "Evitar obtener cultivos"
+    ],
+    "correctIndex": 1,
+    "explanation": "El stewardship antibiótico busca usar el espectro, dosis y duración adecuados y desescalar cuando es posible.",
+    "difficulty": 2,
+    "updatedAt": "2026-10-04",
+    "source": "Banco demostrativo de conceptos MIR de alta frecuencia. Validar siempre contra guías vigentes antes de uso clínico.",
+    "sourceUrl": "",
+    "origin": "starter"
+  },
+  {
+    "id": "q-015",
+    "subjectId": "hemato",
+    "subject": "Hematología",
+    "topic": "Anemias",
+    "question": "Una ferritina baja en el contexto apropiado sugiere principalmente:",
+    "options": [
+      "Hemólisis intravascular",
+      "Déficit de hierro",
+      "Déficit de folato",
+      "Aplasia medular"
+    ],
+    "correctIndex": 1,
+    "explanation": "La ferritina baja es altamente sugestiva de ferropenia; puede elevarse por inflamación.",
+    "difficulty": 3,
+    "updatedAt": "2026-10-04",
+    "source": "Banco demostrativo de conceptos MIR de alta frecuencia. Validar siempre contra guías vigentes antes de uso clínico.",
+    "sourceUrl": "",
+    "origin": "starter"
+  },
+  {
+    "id": "q-016",
+    "subjectId": "hemato",
+    "subject": "Hematología",
+    "topic": "Coagulación",
+    "question": "¿Qué anticoagulante oral actúa inhibiendo la vitamina K epóxido reductasa?",
+    "options": [
+      "Dabigatrán",
+      "Rivaroxabán",
+      "Warfarina/acenocumarol",
+      "Heparina no fraccionada"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los antagonistas de vitamina K reducen la síntesis funcional de factores dependientes de vitamina K.",
+    "difficulty": 2,
+    "updatedAt": "2026-10-04",
+    "source": "Banco demostrativo de conceptos MIR de alta frecuencia. Validar siempre contra guías vigentes antes de uso clínico.",
+    "sourceUrl": "",
+    "origin": "starter"
+  },
+  {
+    "id": "q-017",
+    "subjectId": "reuma",
+    "subject": "Reumatología",
+    "topic": "Gota y cristales",
+    "question": "Los cristales típicos de gota son:",
+    "options": [
+      "Pirofosfato cálcico con birrefringencia negativa",
+      "Urato monosódico con birrefringencia negativa",
+      "Oxalato sin birrefringencia",
+      "Colesterol intracelular"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los cristales de urato son aciculares y muestran birrefringencia negativa con luz polarizada compensada.",
+    "difficulty": 2,
+    "updatedAt": "2026-10-04",
+    "source": "Banco demostrativo de conceptos MIR de alta frecuencia. Validar siempre contra guías vigentes antes de uso clínico.",
+    "sourceUrl": "",
+    "origin": "starter"
+  },
+  {
+    "id": "q-018",
+    "subjectId": "reuma",
+    "subject": "Reumatología",
+    "topic": "Artritis reumatoide",
+    "question": "¿Qué articulaciones suelen respetarse relativamente en la artritis reumatoide típica?",
+    "options": [
+      "Metacarpofalángicas",
+      "Interfalángicas proximales",
+      "Interfalángicas distales",
+      "Muñecas"
+    ],
+    "correctIndex": 2,
+    "explanation": "La artritis reumatoide clásica afecta MCF, IFP y muñecas, y suele respetar IFD.",
+    "difficulty": 3,
+    "updatedAt": "2026-10-04",
+    "source": "Banco demostrativo de conceptos MIR de alta frecuencia. Validar siempre contra guías vigentes antes de uso clínico.",
+    "sourceUrl": "",
+    "origin": "starter"
+  },
+  {
+    "id": "q-019",
+    "subjectId": "gine",
+    "subject": "Ginecología y Obstetricia",
+    "topic": "Preeclampsia",
+    "question": "La preeclampsia aparece típicamente después de:",
+    "options": [
+      "8 semanas",
+      "12 semanas",
+      "20 semanas de gestación",
+      "Solo durante el parto"
+    ],
+    "correctIndex": 2,
+    "explanation": "El diagnóstico se plantea a partir de la semana 20, salvo entidades excepcionales.",
+    "difficulty": 2,
+    "updatedAt": "2026-10-04",
+    "source": "Banco demostrativo de conceptos MIR de alta frecuencia. Validar siempre contra guías vigentes antes de uso clínico.",
+    "sourceUrl": "",
+    "origin": "starter"
+  },
+  {
+    "id": "q-020",
+    "subjectId": "gine",
+    "subject": "Ginecología y Obstetricia",
+    "topic": "Cáncer de cérvix",
+    "question": "¿Cuál es el principal agente etiológico del cáncer de cuello uterino?",
+    "options": [
+      "Virus de Epstein-Barr",
+      "Infección persistente por VPH oncogénico",
+      "Citomegalovirus",
+      "Virus del herpes simple tipo 1"
+    ],
+    "correctIndex": 1,
+    "explanation": "La infección persistente por genotipos oncogénicos de VPH es el factor causal esencial.",
+    "difficulty": 2,
+    "updatedAt": "2026-10-04",
+    "source": "Banco demostrativo de conceptos MIR de alta frecuencia. Validar siempre contra guías vigentes antes de uso clínico.",
+    "sourceUrl": "",
+    "origin": "starter"
+  },
+  {
+    "id": "q-021",
+    "subjectId": "pediatria",
+    "subject": "Pediatría",
+    "topic": "Neonatología",
+    "question": "¿Qué puntuación se usa de forma clásica para valorar la adaptación neonatal inmediata?",
+    "options": [
+      "Glasgow",
+      "Apgar",
+      "Bishop",
+      "Wells"
+    ],
+    "correctIndex": 1,
+    "explanation": "El Apgar evalúa cinco componentes clínicos al minuto y a los cinco minutos.",
+    "difficulty": 3,
+    "updatedAt": "2026-10-04",
+    "source": "Banco demostrativo de conceptos MIR de alta frecuencia. Validar siempre contra guías vigentes antes de uso clínico.",
+    "sourceUrl": "",
+    "origin": "starter"
+  },
+  {
+    "id": "q-022",
+    "subjectId": "pediatria",
+    "subject": "Pediatría",
+    "topic": "Crecimiento y desarrollo",
+    "question": "¿Cuál es el primer signo puberal habitual en niñas?",
+    "options": [
+      "Menarquia",
+      "Telarquia",
+      "Pubarquia obligatoriamente primero",
+      "Cambio de voz"
+    ],
+    "correctIndex": 1,
+    "explanation": "El inicio del desarrollo mamario suele ser el primer signo clínico de pubertad femenina.",
+    "difficulty": 2,
+    "updatedAt": "2026-10-04",
+    "source": "Banco demostrativo de conceptos MIR de alta frecuencia. Validar siempre contra guías vigentes antes de uso clínico.",
+    "sourceUrl": "",
+    "origin": "starter"
+  },
+  {
+    "id": "q-023",
+    "subjectId": "psiquiatria",
+    "subject": "Psiquiatría",
+    "topic": "Depresión",
+    "question": "¿Cuál es un síntoma nuclear del episodio depresivo mayor?",
+    "options": [
+      "Euforia persistente",
+      "Anhedonia",
+      "Fuga de ideas",
+      "Grandiosidad"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ánimo deprimido y/o anhedonia son síntomas nucleares del episodio depresivo.",
+    "difficulty": 2,
+    "updatedAt": "2026-10-04",
+    "source": "Banco demostrativo de conceptos MIR de alta frecuencia. Validar siempre contra guías vigentes antes de uso clínico.",
+    "sourceUrl": "",
+    "origin": "starter"
+  },
+  {
+    "id": "q-024",
+    "subjectId": "psiquiatria",
+    "subject": "Psiquiatría",
+    "topic": "Trastorno bipolar",
+    "question": "¿Qué característica orienta a manía frente a hipomanía?",
+    "options": [
+      "Duración de 24 horas exactas",
+      "Deterioro funcional marcado o necesidad de hospitalización",
+      "Ausencia total de cambios del sueño",
+      "Nunca hay síntomas psicóticos"
+    ],
+    "correctIndex": 1,
+    "explanation": "La manía implica mayor intensidad, deterioro funcional importante, hospitalización o psicosis.",
+    "difficulty": 3,
+    "updatedAt": "2026-10-04",
+    "source": "Banco demostrativo de conceptos MIR de alta frecuencia. Validar siempre contra guías vigentes antes de uso clínico.",
+    "sourceUrl": "",
+    "origin": "starter"
+  },
+  {
+    "id": "q-025",
+    "subjectId": "derma",
+    "subject": "Dermatología",
+    "topic": "Melanoma",
+    "question": "¿Qué regla clínica se utiliza para valorar lesiones pigmentadas sospechosas?",
+    "options": [
+      "Wells",
+      "ABCDE",
+      "CURB-65",
+      "CHA2DS2-VASc"
+    ],
+    "correctIndex": 1,
+    "explanation": "Asimetría, Bordes, Color, Diámetro y Evolución ayudan a reconocer lesiones sospechosas.",
+    "difficulty": 2,
+    "updatedAt": "2026-10-04",
+    "source": "Banco demostrativo de conceptos MIR de alta frecuencia. Validar siempre contra guías vigentes antes de uso clínico.",
+    "sourceUrl": "",
+    "origin": "starter"
+  },
+  {
+    "id": "q-026",
+    "subjectId": "derma",
+    "subject": "Dermatología",
+    "topic": "Psoriasis",
+    "question": "¿Qué fenómeno describe la aparición de lesiones en zonas de traumatismo?",
+    "options": [
+      "Nikolsky",
+      "Fenómeno de Koebner",
+      "Auspitz exclusivamente",
+      "Raynaud"
+    ],
+    "correctIndex": 1,
+    "explanation": "El fenómeno de Koebner consiste en la aparición de lesiones típicas tras traumatismo cutáneo.",
+    "difficulty": 2,
+    "updatedAt": "2026-10-04",
+    "source": "Banco demostrativo de conceptos MIR de alta frecuencia. Validar siempre contra guías vigentes antes de uso clínico.",
+    "sourceUrl": "",
+    "origin": "starter"
+  },
+  {
+    "id": "q-027",
+    "subjectId": "orl",
+    "subject": "Otorrinolaringología",
+    "topic": "Hipoacusia y audiología",
+    "question": "En una hipoacusia de transmisión unilateral, el Weber suele lateralizar hacia:",
+    "options": [
+      "El oído sano",
+      "El oído afectado",
+      "No lateraliza nunca",
+      "La frente posterior"
+    ],
+    "correctIndex": 1,
+    "explanation": "En la hipoacusia conductiva, el Weber suele lateralizar hacia el lado afectado.",
+    "difficulty": 3,
+    "updatedAt": "2026-10-04",
+    "source": "Banco demostrativo de conceptos MIR de alta frecuencia. Validar siempre contra guías vigentes antes de uso clínico.",
+    "sourceUrl": "",
+    "origin": "starter"
+  },
+  {
+    "id": "q-028",
+    "subjectId": "orl",
+    "subject": "Otorrinolaringología",
+    "topic": "Vértigo y equilibrio",
+    "question": "El VPPB posterior se desencadena típicamente por:",
+    "options": [
+      "Ejercicio aeróbico sostenido",
+      "Cambios de posición cefálica",
+      "Hipoglucemia exclusivamente",
+      "Tos crónica"
+    ],
+    "correctIndex": 1,
+    "explanation": "El VPPB se caracteriza por episodios breves de vértigo posicional provocados por movimientos de la cabeza.",
+    "difficulty": 2,
+    "updatedAt": "2026-10-04",
+    "source": "Banco demostrativo de conceptos MIR de alta frecuencia. Validar siempre contra guías vigentes antes de uso clínico.",
+    "sourceUrl": "",
+    "origin": "starter"
+  },
+  {
+    "id": "q-029",
+    "subjectId": "oftalmo",
+    "subject": "Oftalmología",
+    "topic": "Glaucoma",
+    "question": "¿Qué estructura se daña principalmente en el glaucoma?",
+    "options": [
+      "Cristalino",
+      "Nervio óptico",
+      "Conjuntiva",
+      "Músculo ciliar exclusivamente"
+    ],
+    "correctIndex": 1,
+    "explanation": "El glaucoma es una neuropatía óptica progresiva con cambios estructurales y funcionales característicos.",
+    "difficulty": 2,
+    "updatedAt": "2026-10-04",
+    "source": "Banco demostrativo de conceptos MIR de alta frecuencia. Validar siempre contra guías vigentes antes de uso clínico.",
+    "sourceUrl": "",
+    "origin": "starter"
+  },
+  {
+    "id": "q-030",
+    "subjectId": "oftalmo",
+    "subject": "Oftalmología",
+    "topic": "Desprendimiento de retina",
+    "question": "¿Qué síntoma es típico de un desprendimiento de retina regmatógeno?",
+    "options": [
+      "Dolor ocular intenso obligatorio",
+      "Cortina o sombra en el campo visual",
+      "Diplopía monocular aislada",
+      "Prurito palpebral"
+    ],
+    "correctIndex": 1,
+    "explanation": "Fotopsias, miodesopsias y una sombra o cortina progresiva son síntomas de alarma.",
+    "difficulty": 3,
+    "updatedAt": "2026-10-04",
+    "source": "Banco demostrativo de conceptos MIR de alta frecuencia. Validar siempre contra guías vigentes antes de uso clínico.",
+    "sourceUrl": "",
+    "origin": "starter"
+  },
+  {
+    "id": "q-031",
+    "subjectId": "uro",
+    "subject": "Urología",
+    "topic": "Litiasis",
+    "question": "¿Qué prueba de imagen es muy sensible para detectar litiasis ureteral en adultos no gestantes?",
+    "options": [
+      "Radiografía simple siempre",
+      "TC sin contraste",
+      "PET",
+      "Urografía intravenosa obligatoria"
+    ],
+    "correctIndex": 1,
+    "explanation": "La TC sin contraste es una prueba de alta sensibilidad y especificidad para litiasis urinaria.",
+    "difficulty": 2,
+    "updatedAt": "2026-10-04",
+    "source": "Banco demostrativo de conceptos MIR de alta frecuencia. Validar siempre contra guías vigentes antes de uso clínico.",
+    "sourceUrl": "",
+    "origin": "starter"
+  },
+  {
+    "id": "q-032",
+    "subjectId": "uro",
+    "subject": "Urología",
+    "topic": "Escroto agudo",
+    "question": "Ante sospecha alta de torsión testicular, la conducta prioritaria es:",
+    "options": [
+      "Antibiótico oral y alta",
+      "Valoración quirúrgica urgente",
+      "Esperar 24 horas",
+      "Punción testicular"
+    ],
+    "correctIndex": 1,
+    "explanation": "La torsión testicular es una urgencia tiempo-dependiente; no debe retrasarse el tratamiento por pruebas innecesarias.",
+    "difficulty": 2,
+    "updatedAt": "2026-10-04",
+    "source": "Banco demostrativo de conceptos MIR de alta frecuencia. Validar siempre contra guías vigentes antes de uso clínico.",
+    "sourceUrl": "",
+    "origin": "starter"
+  },
+  {
+    "id": "q-033",
+    "subjectId": "trauma",
+    "subject": "Traumatología y Ortopedia",
+    "topic": "Síndrome compartimental",
+    "question": "¿Cuál es un hallazgo precoz importante del síndrome compartimental agudo?",
+    "options": [
+      "Ausencia inmediata de pulso siempre",
+      "Dolor desproporcionado y con estiramiento pasivo",
+      "Equimosis aislada",
+      "Prurito"
+    ],
+    "correctIndex": 1,
+    "explanation": "El dolor desproporcionado y el dolor con estiramiento pasivo son signos de alarma tempranos.",
+    "difficulty": 3,
+    "updatedAt": "2026-10-04",
+    "source": "Banco demostrativo de conceptos MIR de alta frecuencia. Validar siempre contra guías vigentes antes de uso clínico.",
+    "sourceUrl": "",
+    "origin": "starter"
+  },
+  {
+    "id": "q-034",
+    "subjectId": "trauma",
+    "subject": "Traumatología y Ortopedia",
+    "topic": "Cadera",
+    "question": "En ancianos, una fractura intracapsular desplazada del cuello femoral se asocia a riesgo de:",
+    "options": [
+      "Luxación habitual de hombro",
+      "Necrosis avascular de la cabeza femoral",
+      "Síndrome de Horner",
+      "Tenosinovitis de De Quervain"
+    ],
+    "correctIndex": 1,
+    "explanation": "La vascularización de la cabeza femoral puede comprometerse en fracturas intracapsulares desplazadas.",
+    "difficulty": 2,
+    "updatedAt": "2026-10-04",
+    "source": "Banco demostrativo de conceptos MIR de alta frecuencia. Validar siempre contra guías vigentes antes de uso clínico.",
+    "sourceUrl": "",
+    "origin": "starter"
+  },
+  {
+    "id": "q-035",
+    "subjectId": "cirugia",
+    "subject": "Cirugía General",
+    "topic": "Apendicitis",
+    "question": "¿Dónde suele comenzar el dolor de la apendicitis aguda clásica?",
+    "options": [
+      "Hipocondrio izquierdo",
+      "Periumbilical, migrando a fosa iliaca derecha",
+      "Región lumbar bilateral",
+      "Suprapúbico fijo desde el inicio"
+    ],
+    "correctIndex": 1,
+    "explanation": "El patrón clásico refleja dolor visceral inicial seguido de irritación peritoneal localizada.",
+    "difficulty": 2,
+    "updatedAt": "2026-10-04",
+    "source": "Banco demostrativo de conceptos MIR de alta frecuencia. Validar siempre contra guías vigentes antes de uso clínico.",
+    "sourceUrl": "",
+    "origin": "starter"
+  },
+  {
+    "id": "q-036",
+    "subjectId": "cirugia",
+    "subject": "Cirugía General",
+    "topic": "Shock",
+    "question": "¿Qué tipo de shock se caracteriza por reducción primaria del volumen circulante efectivo?",
+    "options": [
+      "Cardiogénico",
+      "Distributivo",
+      "Hipovolémico",
+      "Obstructivo"
+    ],
+    "correctIndex": 2,
+    "explanation": "El shock hipovolémico se debe a pérdida de volumen intravascular, por hemorragia o pérdidas de fluidos.",
+    "difficulty": 3,
+    "updatedAt": "2026-10-04",
+    "source": "Banco demostrativo de conceptos MIR de alta frecuencia. Validar siempre contra guías vigentes antes de uso clínico.",
+    "sourceUrl": "",
+    "origin": "starter"
+  },
+  {
+    "id": "q-037",
+    "subjectId": "urgencias",
+    "subject": "Urgencias y Cuidados Críticos",
+    "topic": "RCP",
+    "question": "En un adulto inconsciente que no respira normalmente, la prioridad es:",
+    "options": [
+      "Esperar cinco minutos",
+      "Activar emergencias e iniciar RCP",
+      "Dar líquidos por vía oral",
+      "Realizar una radiografía"
+    ],
+    "correctIndex": 1,
+    "explanation": "El reconocimiento precoz y el inicio inmediato de RCP son eslabones esenciales de la cadena de supervivencia.",
+    "difficulty": 2,
+    "updatedAt": "2026-10-04",
+    "source": "Banco demostrativo de conceptos MIR de alta frecuencia. Validar siempre contra guías vigentes antes de uso clínico.",
+    "sourceUrl": "",
+    "origin": "starter"
+  },
+  {
+    "id": "q-038",
+    "subjectId": "urgencias",
+    "subject": "Urgencias y Cuidados Críticos",
+    "topic": "Anafilaxia",
+    "question": "¿Cuál es el tratamiento farmacológico de primera línea de la anafilaxia?",
+    "options": [
+      "Antihistamínico oral",
+      "Adrenalina intramuscular",
+      "Corticoide tópico",
+      "Salbutamol como único tratamiento"
+    ],
+    "correctIndex": 1,
+    "explanation": "La adrenalina intramuscular es el tratamiento de primera línea; otros fármacos son coadyuvantes.",
+    "difficulty": 2,
+    "updatedAt": "2026-10-04",
+    "source": "Banco demostrativo de conceptos MIR de alta frecuencia. Validar siempre contra guías vigentes antes de uso clínico.",
+    "sourceUrl": "",
+    "origin": "starter"
+  },
+  {
+    "id": "q-039",
+    "subjectId": "onco",
+    "subject": "Oncología",
+    "topic": "Urgencias oncológicas",
+    "question": "¿Qué síndrome oncológico debe sospecharse ante dolor lumbar, debilidad progresiva y alteración esfinteriana?",
+    "options": [
+      "Síndrome de lisis tumoral exclusivamente",
+      "Compresión medular",
+      "Hipercalcemia aislada",
+      "Neutropenia afebril"
+    ],
+    "correctIndex": 1,
+    "explanation": "La compresión medular es una urgencia oncológica que requiere evaluación y tratamiento rápidos.",
+    "difficulty": 3,
+    "updatedAt": "2026-10-04",
+    "source": "Banco demostrativo de conceptos MIR de alta frecuencia. Validar siempre contra guías vigentes antes de uso clínico.",
+    "sourceUrl": "",
+    "origin": "starter"
+  },
+  {
+    "id": "q-040",
+    "subjectId": "onco",
+    "subject": "Oncología",
+    "topic": "Principios de oncología",
+    "question": "El estadio TNM integra principalmente:",
+    "options": [
+      "Edad, sexo y peso",
+      "Tumor primario, ganglios regionales y metástasis",
+      "Hemoglobina, plaquetas y leucocitos",
+      "Toxicidad, nutrición y movilidad"
+    ],
+    "correctIndex": 1,
+    "explanation": "TNM describe la extensión anatómica del tumor, afectación ganglionar y metástasis.",
+    "difficulty": 2,
+    "updatedAt": "2026-10-04",
+    "source": "Banco demostrativo de conceptos MIR de alta frecuencia. Validar siempre contra guías vigentes antes de uso clínico.",
+    "sourceUrl": "",
+    "origin": "starter"
+  },
+  {
+    "id": "q-041",
+    "subjectId": "inmuno",
+    "subject": "Inmunología y Alergología",
+    "topic": "Hipersensibilidad",
+    "question": "La anafilaxia inmediata mediada por IgE corresponde clásicamente a hipersensibilidad tipo:",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV"
+    ],
+    "correctIndex": 0,
+    "explanation": "La hipersensibilidad tipo I es inmediata y suele estar mediada por IgE y mastocitos.",
+    "difficulty": 2,
+    "updatedAt": "2026-10-04",
+    "source": "Banco demostrativo de conceptos MIR de alta frecuencia. Validar siempre contra guías vigentes antes de uso clínico.",
+    "sourceUrl": "",
+    "origin": "starter"
+  },
+  {
+    "id": "q-042",
+    "subjectId": "inmuno",
+    "subject": "Inmunología y Alergología",
+    "topic": "Inmunidad innata y adaptativa",
+    "question": "¿Qué célula puede diferenciarse en célula plasmática productora de anticuerpos?",
+    "options": [
+      "Neutrófilo",
+      "Linfocito B",
+      "Eosinófilo",
+      "Célula NK"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los linfocitos B activados pueden diferenciarse en células plasmáticas secretoras de inmunoglobulinas.",
+    "difficulty": 3,
+    "updatedAt": "2026-10-04",
+    "source": "Banco demostrativo de conceptos MIR de alta frecuencia. Validar siempre contra guías vigentes antes de uso clínico.",
+    "sourceUrl": "",
+    "origin": "starter"
+  },
+  {
+    "id": "q-043",
+    "subjectId": "farmaco",
+    "subject": "Farmacología",
+    "topic": "Farmacocinética",
+    "question": "La biodisponibilidad es:",
+    "options": [
+      "La velocidad de eliminación renal",
+      "La fracción de una dosis que alcanza la circulación sistémica sin cambios",
+      "La unión exclusiva a albúmina",
+      "El volumen plasmático total"
+    ],
+    "correctIndex": 1,
+    "explanation": "La biodisponibilidad cuantifica la exposición sistémica a partir de una dosis administrada.",
+    "difficulty": 2,
+    "updatedAt": "2026-10-04",
+    "source": "Banco demostrativo de conceptos MIR de alta frecuencia. Validar siempre contra guías vigentes antes de uso clínico.",
+    "sourceUrl": "",
+    "origin": "starter"
+  },
+  {
+    "id": "q-044",
+    "subjectId": "farmaco",
+    "subject": "Farmacología",
+    "topic": "Anticoagulantes",
+    "question": "¿Qué fármaco es un inhibidor directo de trombina oral?",
+    "options": [
+      "Apixabán",
+      "Dabigatrán",
+      "Acenocumarol",
+      "Fondaparinux"
+    ],
+    "correctIndex": 1,
+    "explanation": "Dabigatrán inhibe directamente la trombina; varios otros anticoagulantes orales directos inhiben factor Xa.",
+    "difficulty": 2,
+    "updatedAt": "2026-10-04",
+    "source": "Banco demostrativo de conceptos MIR de alta frecuencia. Validar siempre contra guías vigentes antes de uso clínico.",
+    "sourceUrl": "",
+    "origin": "starter"
+  },
+  {
+    "id": "q-045",
+    "subjectId": "preventiva",
+    "subject": "Medicina Preventiva y Salud Pública",
+    "topic": "Cribado",
+    "question": "Para que un programa de cribado sea útil, la enfermedad debe contar idealmente con:",
+    "options": [
+      "Solo alta mortalidad",
+      "Una fase preclínica detectable y una intervención eficaz",
+      "Una prueba necesariamente invasiva",
+      "Prevalencia igual a cero"
+    ],
+    "correctIndex": 1,
+    "explanation": "El cribado busca detectar enfermedad en fase preclínica cuando una intervención temprana mejora resultados.",
+    "difficulty": 3,
+    "updatedAt": "2026-10-04",
+    "source": "Banco demostrativo de conceptos MIR de alta frecuencia. Validar siempre contra guías vigentes antes de uso clínico.",
+    "sourceUrl": "",
+    "origin": "starter"
+  },
+  {
+    "id": "q-046",
+    "subjectId": "preventiva",
+    "subject": "Medicina Preventiva y Salud Pública",
+    "topic": "Medidas de asociación",
+    "question": "En un estudio de cohortes, una medida de asociación habitual es:",
+    "options": [
+      "Odds ratio exclusivamente",
+      "Riesgo relativo",
+      "Coeficiente kappa",
+      "Valor predictivo positivo únicamente"
+    ],
+    "correctIndex": 1,
+    "explanation": "El riesgo relativo compara la incidencia entre expuestos y no expuestos en cohortes.",
+    "difficulty": 2,
+    "updatedAt": "2026-10-04",
+    "source": "Banco demostrativo de conceptos MIR de alta frecuencia. Validar siempre contra guías vigentes antes de uso clínico.",
+    "sourceUrl": "",
+    "origin": "starter"
+  },
+  {
+    "id": "q-047",
+    "subjectId": "bioestad",
+    "subject": "Bioestadística y MBE",
+    "topic": "Sensibilidad y especificidad",
+    "question": "La sensibilidad de una prueba es la probabilidad de:",
+    "options": [
+      "Resultado positivo entre sanos",
+      "Resultado positivo entre quienes tienen la enfermedad",
+      "Enfermedad entre resultados negativos",
+      "No enfermedad entre resultados positivos"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sensibilidad = verdaderos positivos / total de enfermos.",
+    "difficulty": 2,
+    "updatedAt": "2026-10-04",
+    "source": "Banco demostrativo de conceptos MIR de alta frecuencia. Validar siempre contra guías vigentes antes de uso clínico.",
+    "sourceUrl": "",
+    "origin": "starter"
+  },
+  {
+    "id": "q-048",
+    "subjectId": "bioestad",
+    "subject": "Bioestadística y MBE",
+    "topic": "Diseños de estudio",
+    "question": "¿Qué diseño parte habitualmente de enfermos y no enfermos para investigar exposiciones previas?",
+    "options": [
+      "Cohortes prospectivo obligatorio",
+      "Casos y controles",
+      "Ensayo cruzado",
+      "Serie temporal"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los estudios de casos y controles seleccionan según desenlace y comparan antecedentes de exposición.",
+    "difficulty": 3,
+    "updatedAt": "2026-10-04",
+    "source": "Banco demostrativo de conceptos MIR de alta frecuencia. Validar siempre contra guías vigentes antes de uso clínico.",
+    "sourceUrl": "",
+    "origin": "starter"
+  },
+  {
+    "id": "q-049",
+    "subjectId": "etica",
+    "subject": "Bioética y Medicina Legal",
+    "topic": "Consentimiento informado",
+    "question": "El consentimiento informado válido exige, entre otros elementos:",
+    "options": [
+      "Firma siempre notarial",
+      "Capacidad, información suficiente y voluntariedad",
+      "Presencia obligatoria de dos testigos",
+      "Ausencia total de alternativas"
+    ],
+    "correctIndex": 1,
+    "explanation": "El consentimiento requiere que la persona pueda decidir, reciba información adecuada y actúe libremente.",
+    "difficulty": 2,
+    "updatedAt": "2026-10-04",
+    "source": "Banco demostrativo de conceptos MIR de alta frecuencia. Validar siempre contra guías vigentes antes de uso clínico.",
+    "sourceUrl": "",
+    "origin": "starter"
+  },
+  {
+    "id": "q-050",
+    "subjectId": "etica",
+    "subject": "Bioética y Medicina Legal",
+    "topic": "Confidencialidad",
+    "question": "La confidencialidad clínica puede ceder legítimamente cuando:",
+    "options": [
+      "Lo solicita cualquier familiar",
+      "Existe una obligación legal o un riesgo grave justificado según la normativa aplicable",
+      "Lo pide un compañero sin relación asistencial",
+      "Nunca en ninguna circunstancia"
+    ],
+    "correctIndex": 1,
+    "explanation": "La confidencialidad es la regla, con excepciones tasadas por ley y por protección frente a determinados riesgos.",
+    "difficulty": 2,
+    "updatedAt": "2026-10-04",
+    "source": "Banco demostrativo de conceptos MIR de alta frecuencia. Validar siempre contra guías vigentes antes de uso clínico.",
+    "sourceUrl": "",
+    "origin": "starter"
+  },
+  {
+    "id": "q-051",
+    "subjectId": "genetica",
+    "subject": "Genética y Anatomía Patológica",
+    "topic": "Herencia mendeliana",
+    "question": "En una enfermedad autosómica dominante con penetrancia completa, un progenitor heterocigoto afectado y otro sano tienen, por embarazo, un riesgo teórico de transmisión de:",
+    "options": [
+      "0 %",
+      "25 %",
+      "50 %",
+      "100 %"
+    ],
+    "correctIndex": 2,
+    "explanation": "Cada descendiente tiene una probabilidad independiente del 50 % de heredar el alelo patogénico.",
+    "difficulty": 3,
+    "updatedAt": "2026-10-04",
+    "source": "Banco demostrativo de conceptos MIR de alta frecuencia. Validar siempre contra guías vigentes antes de uso clínico.",
+    "sourceUrl": "",
+    "origin": "starter"
+  },
+  {
+    "id": "q-052",
+    "subjectId": "genetica",
+    "subject": "Genética y Anatomía Patológica",
+    "topic": "Neoplasia",
+    "question": "Un oncogén suele derivar de:",
+    "options": [
+      "Pérdida bialélica obligatoria de un supresor tumoral",
+      "Activación o ganancia de función de un protooncogén",
+      "Ausencia de mutaciones somáticas",
+      "Silenciamiento de todos los genes de reparación"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los oncogenes promueven proliferación o supervivencia cuando un protooncogén adquiere activación inapropiada.",
+    "difficulty": 2,
+    "updatedAt": "2026-10-04",
+    "source": "Banco demostrativo de conceptos MIR de alta frecuencia. Validar siempre contra guías vigentes antes de uso clínico.",
+    "sourceUrl": "",
+    "origin": "starter"
+  },
+  {
+    "id": "q-053",
+    "subjectId": "geriatria",
+    "subject": "Geriatría y Medicina Familiar",
+    "topic": "Delirium",
+    "question": "¿Qué rasgo distingue típicamente al delirium de una demencia estable?",
+    "options": [
+      "Inicio siempre insidioso",
+      "Inicio agudo y curso fluctuante",
+      "Ausencia de alteración atencional",
+      "Duración mínima de seis meses"
+    ],
+    "correctIndex": 1,
+    "explanation": "El delirium se caracteriza por alteración aguda y fluctuante de atención y cognición.",
+    "difficulty": 2,
+    "updatedAt": "2026-10-04",
+    "source": "Banco demostrativo de conceptos MIR de alta frecuencia. Validar siempre contra guías vigentes antes de uso clínico.",
+    "sourceUrl": "",
+    "origin": "starter"
+  },
+  {
+    "id": "q-054",
+    "subjectId": "geriatria",
+    "subject": "Geriatría y Medicina Familiar",
+    "topic": "Polifarmacia",
+    "question": "Una intervención clave ante polifarmacia es:",
+    "options": [
+      "Añadir un fármaco preventivo a todos",
+      "Revisión estructurada de indicación, beneficio, riesgo e interacciones",
+      "Suspender todos los tratamientos",
+      "Evitar preguntar por automedicación"
+    ],
+    "correctIndex": 1,
+    "explanation": "La conciliación y deprescripción razonada reducen tratamientos innecesarios y eventos adversos.",
+    "difficulty": 3,
+    "updatedAt": "2026-10-04",
+    "source": "Banco demostrativo de conceptos MIR de alta frecuencia. Validar siempre contra guías vigentes antes de uso clínico.",
+    "sourceUrl": "",
+    "origin": "starter"
+  }
+]
